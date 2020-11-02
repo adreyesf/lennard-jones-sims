@@ -122,3 +122,9 @@ GROMACS reminds you: "A mathematician is a blind man in a dark room looking for 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 23393651b] feat: add 3-p18-t374 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p18-t374.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   65d86e442..23393651b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
