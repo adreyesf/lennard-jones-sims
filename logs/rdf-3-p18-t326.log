@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: ""Everything organic and natural is good" - ignoring the fact that organic natural substances include arsenic and poo and crocodiles. And everything chemical is bad, ignoring the fact that... everything is chemicals." (Tim Minchin)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ac610af39] feat: add 3-p18-t326 radial distribution function and updates to logs
+ 7 files changed, 2305 insertions(+), 268 deletions(-)
+ rewrite logs/rdf-3-p18-t326.log (77%)
+ rewrite logs/rdf-3-p18-t332.log (71%)
+ create mode 100644 results/rdf-3-p18-t326.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   02b89ad2c..ac610af39  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
