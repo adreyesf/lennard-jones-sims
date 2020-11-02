@@ -119,3 +119,10 @@ GROMACS reminds you: "It Costs Too Much If It Costs a Lot" (Magnapop)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f1f15b6fe] feat: add 3-p18-t506 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 139 deletions(-)
+ rewrite logs/rdf-3-p18-t506.log (77%)
+ create mode 100644 results/rdf-3-p18-t506.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b5d2e9b62..f1f15b6fe  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
