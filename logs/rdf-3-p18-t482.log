@@ -119,3 +119,10 @@ GROMACS reminds you: "If You Touch Me, You'll Get Shocked" (Beastie Boys)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 78c7ce5c4] feat: add 3-p18-t482 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 119 deletions(-)
+ rewrite logs/rdf-3-p18-t482.log (73%)
+ create mode 100644 results/rdf-3-p18-t482.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0050536e3..78c7ce5c4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
