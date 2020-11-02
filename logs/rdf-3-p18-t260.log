@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Physics is a few rules, and with some handwaving you can make up the rest" (Michael Levitt)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 dcf499353] feat: add 3-p18-t260 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p18-t266.log (70%)
+ rewrite logs/sim-3-p18-t272.log (75%)
+ create mode 100644 results/rdf-3-p18-t260.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a41098562..dcf499353  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
