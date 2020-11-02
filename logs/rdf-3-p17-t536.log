@@ -121,3 +121,10 @@ GROMACS reminds you: "Art is what you can get away with." (Andy Warhol)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 36ceeb4bf] feat: add 3-p17-t536 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 153 deletions(-)
+ rewrite logs/rdf-3-p17-t542.log (77%)
+ create mode 100644 results/rdf-3-p17-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   265f931c0..36ceeb4bf  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
