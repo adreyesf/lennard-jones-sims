@@ -122,3 +122,10 @@ GROMACS reminds you: "You Crashed Into the Swamps" (Silicon Graphics)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 871503d7b] feat: add 3-p18-t794 radial distribution function and updates to logs
+ 5 files changed, 2187 insertions(+), 142 deletions(-)
+ rewrite logs/rdf-3-p18-t800.log (77%)
+ create mode 100644 results/rdf-3-p18-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   340c2f5a0..871503d7b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
