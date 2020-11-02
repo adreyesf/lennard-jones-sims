@@ -121,3 +121,10 @@ GROMACS reminds you: "Where all think alike, no one thinks very much." (Walter L
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 713c3465d] feat: add 3-p19-t200 radial distribution function and updates to logs
+ 6 files changed, 2216 insertions(+), 117 deletions(-)
+ rewrite logs/rdf-3-p19-t206.log (72%)
+ create mode 100644 results/rdf-3-p19-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   54fc33632..713c3465d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
