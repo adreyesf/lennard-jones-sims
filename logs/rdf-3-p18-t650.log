@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Rockets are cool. There's no getting around that." (Elon Musk)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f365595ba] feat: add 3-p18-t650 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p18-t650.log (70%)
+ rewrite logs/rdf-3-p18-t656.log (75%)
+ create mode 100644 results/rdf-3-p18-t650.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e673bbbf1..f365595ba  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
