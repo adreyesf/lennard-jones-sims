@@ -119,3 +119,10 @@ GROMACS reminds you: "It's Coming Right For Us !" (South Park)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a46d9a14d] feat: add 3-p17-t680 radial distribution function and updates to logs
+ 5 files changed, 2184 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p17-t680.log (71%)
+ create mode 100644 results/rdf-3-p17-t680.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ecb112d63..a46d9a14d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
