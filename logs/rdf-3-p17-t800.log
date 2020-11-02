@@ -119,3 +119,10 @@ GROMACS reminds you: "Does college pay? They do if you are a good open-field run
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8da46b318] feat: add 3-p17-t800 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p17-t800.log (71%)
+ create mode 100644 results/rdf-3-p17-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0e158de01..8da46b318  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
