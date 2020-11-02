@@ -119,3 +119,11 @@ GROMACS reminds you: "It's So Fast It's Slow" (F. Black)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1b1a6a10d] feat: add 3-p17-t518 radial distribution function and updates to logs
+ 6 files changed, 2300 insertions(+), 254 deletions(-)
+ rewrite logs/rdf-3-p17-t518.log (70%)
+ rewrite logs/rdf-3-p17-t524.log (77%)
+ create mode 100644 results/rdf-3-p17-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ededbe508..1b1a6a10d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
