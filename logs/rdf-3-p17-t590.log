@@ -122,3 +122,10 @@ GROMACS reminds you: "There's Still Time to Change the Road You're On" (Led Zepp
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 fc71e98c6] feat: add 3-p17-t590 radial distribution function and updates to logs
+ 5 files changed, 2112 insertions(+), 141 deletions(-)
+ rewrite logs/rdf-3-p17-t596.log (88%)
+ create mode 100644 results/rdf-3-p17-t590.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   98922f578..fc71e98c6  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
