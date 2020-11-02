@@ -119,3 +119,11 @@ GROMACS reminds you: "A weed scientist goes into a shop. He asks: 'Hey, you got 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 25201504d] feat: add 3-p17-t548 radial distribution function and updates to logs
+ 6 files changed, 2298 insertions(+), 241 deletions(-)
+ rewrite logs/rdf-3-p17-t548.log (70%)
+ rewrite logs/rdf-3-p17-t554.log (75%)
+ create mode 100644 results/rdf-3-p17-t548.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3d4d28a12..25201504d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
