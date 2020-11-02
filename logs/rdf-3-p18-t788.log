@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Considering the current sad state of our computer programs, software development is clearly still a black art, and cannot yet be called an engineering discipline." (William Jefferson Clinton)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 340c2f5a0] feat: add 3-p18-t788 radial distribution function and updates to logs
+ 6 files changed, 2314 insertions(+), 111 deletions(-)
+ rewrite logs/rdf-3-p18-t794.log (70%)
+ rewrite logs/sim-3-p18-t800.log (75%)
+ create mode 100644 results/rdf-3-p18-t788.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   38d7384a3..340c2f5a0  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
