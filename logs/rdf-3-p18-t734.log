@@ -119,3 +119,10 @@ GROMACS reminds you: "The Candlelight Was Just Right" (Beastie Boys)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 16b8af9a9] feat: add 3-p18-t734 radial distribution function and updates to logs
+ 5 files changed, 2189 insertions(+), 142 deletions(-)
+ rewrite logs/rdf-3-p18-t740.log (77%)
+ create mode 100644 results/rdf-3-p18-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   cc7cc2b40..16b8af9a9  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
