@@ -119,3 +119,9 @@ GROMACS reminds you: "There's so many shades of black" (The Raconteurs)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 59a7f507a] feat: add 3-p18-t206 radial distribution function and updates to logs
+ 4 files changed, 2184 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p18-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fd3b4c410..59a7f507a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
