@@ -119,3 +119,11 @@ GROMACS reminds you: "In science it often happens that scientists say, 'You know
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7faf066a3] feat: add 3-p17-t698 radial distribution function and updates to logs
+ 7 files changed, 2304 insertions(+), 261 deletions(-)
+ rewrite logs/rdf-3-p17-t698.log (70%)
+ rewrite logs/rdf-3-p17-t704.log (77%)
+ create mode 100644 results/rdf-3-p17-t698.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   40555884b..7faf066a3  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
