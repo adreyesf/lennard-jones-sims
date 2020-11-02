@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Not to get technical... but according to chemistry, alcohol is a solution." (Anonymous)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 710c0f02f] feat: add 3-p18-t380 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 253 deletions(-)
+ rewrite logs/rdf-3-p18-t380.log (71%)
+ rewrite logs/rdf-3-p18-t386.log (77%)
+ create mode 100644 results/rdf-3-p18-t380.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   23393651b..710c0f02f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
