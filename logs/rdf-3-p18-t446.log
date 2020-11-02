@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "... yet the [economic] profession continued to churn out purely theoretical results without even knowing what facts needed to be explained." (Thomas Piketty)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 09c8b6e9e] feat: add 3-p18-t446 radial distribution function and updates to logs
+ 6 files changed, 2314 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p18-t452.log (70%)
+ rewrite logs/sim-3-p18-t458.log (75%)
+ create mode 100644 results/rdf-3-p18-t446.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   59e3fbc69..09c8b6e9e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
