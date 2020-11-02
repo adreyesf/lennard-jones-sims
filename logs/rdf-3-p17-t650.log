@@ -119,3 +119,10 @@ GROMACS reminds you: "When It Starts to Start It'll Never Stop" (Magnapop)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f98b7e8ce] feat: add 3-p17-t650 radial distribution function and updates to logs
+ 5 files changed, 2184 insertions(+), 108 deletions(-)
+ rewrite logs/rdf-3-p17-t650.log (70%)
+ create mode 100644 results/rdf-3-p17-t650.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   54aa61c68..f98b7e8ce  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
