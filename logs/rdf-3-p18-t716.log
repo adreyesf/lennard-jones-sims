@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I Snipe Like Wesley" (Urban Dance Squad)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 af85e3a9e] feat: add 3-p18-t716 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 247 deletions(-)
+ rewrite logs/rdf-3-p18-t716.log (76%)
+ rewrite logs/rdf-3-p18-t722.log (70%)
+ create mode 100644 results/rdf-3-p18-t716.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   86e14a82d..af85e3a9e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
