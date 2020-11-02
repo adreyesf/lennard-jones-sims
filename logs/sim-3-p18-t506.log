@@ -32,3 +32,4 @@ Calculated rlist for 1x1 atom pair-list as 1.000 nm, buffer size 0.000 nm
 Set rlist, assuming 4x4 atom pair-list, to 1.000 nm, buffer size 0.000 nm
 Note that mdrun will redetermine rlist based on the actual pair-list setup
 This run will generate roughly 69 Mb of data
+saving to OUT/p18-t506/3-md
