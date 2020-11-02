@@ -122,3 +122,9 @@ GROMACS reminds you: "It is disconcerting to reflect on the number of students w
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ef438575b] feat: add 3-p17-t500 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p17-t500.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c08ae76e9..ef438575b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
