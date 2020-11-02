@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "You Own the Sun" (Throwing Muses)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 65d86e442] feat: add 3-p18-t368 radial distribution function and updates to logs
+ 6 files changed, 2240 insertions(+), 134 deletions(-)
+ rewrite logs/rdf-3-p18-t374.log (75%)
+ rewrite logs/sim-3-p18-t380.log (75%)
+ create mode 100644 results/rdf-3-p18-t368.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f3135b27b..65d86e442  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
