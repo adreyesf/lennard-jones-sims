@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Erwin with his psi can do / Calculations quite a few. / But one thing has not been seen / Just what psi really mean." (Felix Bloch)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 4580c162c] feat: add 3-p18-t236 radial distribution function and updates to logs
+ 7 files changed, 2315 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p18-t236.log (70%)
+ rewrite logs/rdf-3-p18-t242.log (75%)
+ rewrite logs/sim-3-p18-t248.log (75%)
+ create mode 100644 results/rdf-3-p18-t236.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   13b0212ac..4580c162c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
