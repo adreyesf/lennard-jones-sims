@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "What's Your Definition Of Dirty ?" (G. Michael)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 20c3c743d] feat: add 3-p17-t572 radial distribution function and updates to logs
+ 6 files changed, 2192 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p17-t578.log (70%)
+ create mode 100644 results/rdf-3-p17-t572.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5df5c13f0..20c3c743d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
