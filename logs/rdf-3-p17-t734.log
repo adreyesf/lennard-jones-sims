@@ -119,3 +119,10 @@ GROMACS reminds you: "I removed all the lambda defaults so that users have to th
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d1b22645c] feat: add 3-p17-t734 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p17-t740.log (70%)
+ create mode 100644 results/rdf-3-p17-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   85ed547e7..d1b22645c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
