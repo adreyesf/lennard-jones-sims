@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "If we knew what it was we were doing, it would not be called research, would it?" (Albert Einstein)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3e2776c4d] feat: add 3-p18-t752 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 263 deletions(-)
+ rewrite logs/rdf-3-p18-t752.log (77%)
+ rewrite logs/rdf-3-p18-t758.log (70%)
+ rewrite logs/sim-3-p18-t764.log (75%)
+ create mode 100644 results/rdf-3-p18-t752.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   292a831c1..3e2776c4d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
