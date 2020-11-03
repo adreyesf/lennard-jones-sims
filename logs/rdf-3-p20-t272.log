@@ -119,3 +119,11 @@ GROMACS reminds you: "The first 90% of the code accounts for the first 90% of th
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d21afdd4e] feat: add 3-p20-t272 radial distribution function and updates to logs
+ 6 files changed, 2169 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p20-t278.log (76%)
+ rewrite logs/sim-3-p20-t284.log (75%)
+ create mode 100644 results/rdf-3-p20-t272.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4bc8cf6ab..d21afdd4e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
