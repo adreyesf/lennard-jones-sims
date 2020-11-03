@@ -119,3 +119,10 @@ GROMACS reminds you: "Same sex marriage is not a gay privilege, it's equal right
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ab1e85d5a] feat: add 3-p22-t470 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 107 deletions(-)
+ rewrite logs/rdf-3-p22-t476.log (69%)
+ create mode 100644 results/rdf-3-p22-t470.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a1d60d973..ab1e85d5a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
