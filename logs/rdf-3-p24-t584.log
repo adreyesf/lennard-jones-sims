@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I know poetry is not dead, nor genius lost; nor has Mammon gained power over either, to bind or slay; they will both assert their existence, their presence, their liberty and strength again one day." (Jane Eyre in Jane Eyre by Charlotte Bronte)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 43e588ce0] feat: add 3-p24-t584 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p24-t584.log (70%)
+ rewrite logs/rdf-3-p24-t590.log (77%)
+ rewrite logs/sim-3-p24-t596.log (75%)
+ create mode 100644 results/rdf-3-p24-t584.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   96c6e3cd7..43e588ce0  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
