@@ -119,3 +119,11 @@ GROMACS reminds you: "Your Proposal is Accepted" (Men In Black)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 84f1372b6] feat: add 3-p21-t320 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p21-t326.log (77%)
+ rewrite logs/sim-3-p21-t332.log (75%)
+ create mode 100644 results/rdf-3-p21-t320.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   164f7b592..84f1372b6  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
