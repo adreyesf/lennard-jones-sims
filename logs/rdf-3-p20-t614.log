@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I have no responsibility to live up to what others expect of me. That's their mistake, not my failing." (Richard Feynman)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ed48d513f] feat: add 3-p20-t614 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 222 deletions(-)
+ rewrite logs/rdf-3-p20-t614.log (71%)
+ rewrite logs/rdf-3-p20-t620.log (70%)
+ rewrite logs/sim-3-p20-t626.log (75%)
+ create mode 100644 results/rdf-3-p20-t614.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   aa595a568..ed48d513f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
