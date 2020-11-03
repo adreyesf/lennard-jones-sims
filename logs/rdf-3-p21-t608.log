@@ -122,3 +122,10 @@ GROMACS reminds you: "There is no reason for any individual to have a computer i
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 497c4ff8d] feat: add 3-p21-t608 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 108 deletions(-)
+ rewrite logs/rdf-3-p21-t614.log (70%)
+ create mode 100644 results/rdf-3-p21-t608.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   76823b733..497c4ff8d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
