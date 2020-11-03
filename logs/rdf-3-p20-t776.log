@@ -122,3 +122,9 @@ GROMACS reminds you: "A cop pulls Heisenberg over and asks him 'Do you know how 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 241038d9f] feat: add 3-p20-t776 radial distribution function and updates to logs
+ 4 files changed, 2073 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p20-t776.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f2eac4b70..241038d9f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
