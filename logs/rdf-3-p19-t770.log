@@ -121,3 +121,9 @@ GROMACS reminds you: "Remember, being healthy is basically dying as slowly as po
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 63f63d21e] feat: add 3-p19-t770 radial distribution function and updates to logs
+ 4 files changed, 2070 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p19-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   082c97617..63f63d21e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
