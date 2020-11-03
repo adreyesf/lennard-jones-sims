@@ -120,3 +120,10 @@ GROMACS reminds you: "I didn't know what MD was. I think I've managed to catch u
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f979b45bd] feat: add 3-p21-t566 radial distribution function and updates to logs
+ 5 files changed, 2190 insertions(+), 119 deletions(-)
+ rewrite logs/rdf-3-p21-t572.log (73%)
+ create mode 100644 results/rdf-3-p21-t566.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f346d607b..f979b45bd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
