@@ -122,3 +122,10 @@ GROMACS reminds you: "Oh, There Goes Gravity" (Eminem)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 b31cd04df] feat: add 3-p23-t584 radial distribution function and updates to logs
+ 5 files changed, 2188 insertions(+), 139 deletions(-)
+ rewrite logs/rdf-3-p23-t590.log (77%)
+ create mode 100644 results/rdf-3-p23-t584.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   bd9a5f1b3..b31cd04df  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
