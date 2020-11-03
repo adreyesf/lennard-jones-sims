@@ -119,3 +119,11 @@ GROMACS reminds you: "All I Ever Wanted Was Your Life" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3d82c65d7] feat: add 3-p21-t230 radial distribution function and updates to logs
+ 7 files changed, 2301 insertions(+), 261 deletions(-)
+ rewrite logs/rdf-3-p21-t236.log (77%)
+ rewrite logs/rdf-3-p21-t242.log (70%)
+ create mode 100644 results/rdf-3-p21-t230.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   93c69db02..3d82c65d7  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
