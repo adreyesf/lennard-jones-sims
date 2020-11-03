@@ -122,3 +122,10 @@ GROMACS reminds you: "If you have any trouble sounding condescending, find a UNI
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8dcef1ae8] feat: add 3-p20-t704 radial distribution function and updates to logs
+ 5 files changed, 2191 insertions(+), 150 deletions(-)
+ rewrite logs/rdf-3-p20-t710.log (77%)
+ create mode 100644 results/rdf-3-p20-t704.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   47a2e0ace..8dcef1ae8  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
