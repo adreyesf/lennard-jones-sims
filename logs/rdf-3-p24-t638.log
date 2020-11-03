@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "There's Still Time to Change the Road You're On" (Led Zeppelin)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 fc7f4764c] feat: add 3-p24-t638 radial distribution function and updates to logs
+ 6 files changed, 2195 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p24-t644.log (77%)
+ create mode 100644 results/rdf-3-p24-t638.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e61f3b2ed..fc7f4764c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
