@@ -119,3 +119,9 @@ GROMACS reminds you: "The best part of winter in Stockholm is going to Australia
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2854e9346] feat: add 3-p23-t620 radial distribution function and updates to logs
+ 4 files changed, 2070 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p23-t620.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d313f5775..2854e9346  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
