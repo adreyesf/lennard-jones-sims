@@ -120,3 +120,9 @@ GROMACS reminds you: "Microbiology Lab - Staph Only." (Anonymous)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 faa3c1faf] feat: add 3-p22-t740 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p22-t740.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   09cdb5088..faa3c1faf  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
