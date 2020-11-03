@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Do the Dog On the Ground" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 97fc87b5f] feat: add 3-p19-t536 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p19-t542.log (70%)
+ rewrite logs/sim-3-p19-t548.log (75%)
+ create mode 100644 results/rdf-3-p19-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   168f55fa6..97fc87b5f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
