@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "It is unfortunate that the authors did not make better use of all the electric power energy that went into these massive computations." (An anonymous referee)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 de5fe958e] feat: add 3-p21-t584 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p21-t590.log (77%)
+ create mode 100644 results/rdf-3-p21-t584.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4b83894fa..de5fe958e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
