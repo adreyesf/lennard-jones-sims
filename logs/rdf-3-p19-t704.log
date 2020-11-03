@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "As an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life -- so I became a scientist. This is like becoming an archbishop so you can meet girls." (Matt Cartmill)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 006d518ea] feat: add 3-p19-t704 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 257 deletions(-)
+ rewrite logs/rdf-3-p19-t704.log (71%)
+ rewrite logs/rdf-3-p19-t710.log (77%)
+ rewrite logs/sim-3-p19-t716.log (75%)
+ create mode 100644 results/rdf-3-p19-t704.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   09553d011..006d518ea  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
