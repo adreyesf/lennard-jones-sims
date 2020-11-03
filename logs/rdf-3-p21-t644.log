@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Praise those of your critics for whom nothing is up to standard." (Dag Hammarskjold)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ed2217527] feat: add 3-p21-t644 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 251 deletions(-)
+ rewrite logs/rdf-3-p21-t644.log (75%)
+ rewrite logs/rdf-3-p21-t650.log (70%)
+ rewrite logs/sim-3-p21-t656.log (75%)
+ create mode 100644 results/rdf-3-p21-t644.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6751a017b..ed2217527  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
