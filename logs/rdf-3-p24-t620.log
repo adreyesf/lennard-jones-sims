@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I didn't want to just know names of things. I remember really wanting to know how it all worked." (Elizabeth Blackburn)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a7d959906] feat: add 3-p24-t620 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 263 deletions(-)
+ rewrite logs/rdf-3-p24-t620.log (77%)
+ rewrite logs/rdf-3-p24-t626.log (70%)
+ rewrite logs/sim-3-p24-t632.log (75%)
+ create mode 100644 results/rdf-3-p24-t620.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e79384d58..a7d959906  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
