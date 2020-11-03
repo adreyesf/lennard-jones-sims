@@ -119,3 +119,10 @@ GROMACS reminds you: "Dr Pauling, how do you have so many good ideas? Well David
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1852d046a] feat: add 3-p23-t290 radial distribution function and updates to logs
+ 6 files changed, 2177 insertions(+), 123 deletions(-)
+ rewrite logs/rdf-3-p23-t296.log (73%)
+ create mode 100644 results/rdf-3-p23-t290.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2d02fd012..1852d046a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
