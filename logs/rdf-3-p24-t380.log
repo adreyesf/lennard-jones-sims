@@ -119,3 +119,11 @@ GROMACS reminds you: "Forcefields are like dating; things go fine for a while an
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 34a814c09] feat: add 3-p24-t380 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p24-t386.log (70%)
+ rewrite logs/sim-3-p24-t392.log (75%)
+ create mode 100644 results/rdf-3-p24-t380.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8d6342588..34a814c09  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
