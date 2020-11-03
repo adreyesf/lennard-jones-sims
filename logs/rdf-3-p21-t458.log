@@ -130,3 +130,10 @@ rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
 fatal: pathspec '../results/rdf-3-p21-t458.xvg' did not match any files
+[u1 37553e5ce] feat: add 3-p21-t458 radial distribution function and updates to logs
+ 4 files changed, 191 insertions(+), 131 deletions(-)
+ rewrite logs/rdf-3-p21-t458.log (67%)
+fatal: unable to get credential storage lock: File exists
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3785c1faf..37553e5ce  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
