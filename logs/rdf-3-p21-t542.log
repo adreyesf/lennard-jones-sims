@@ -119,3 +119,10 @@ GROMACS reminds you: "Physics is a few rules, and with some handwaving you can m
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0c011a615] feat: add 3-p21-t542 radial distribution function and updates to logs
+ 5 files changed, 2187 insertions(+), 128 deletions(-)
+ rewrite logs/rdf-3-p21-t548.log (75%)
+ create mode 100644 results/rdf-3-p21-t542.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8beda9123..0c011a615  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
