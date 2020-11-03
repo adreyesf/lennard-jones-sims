@@ -119,3 +119,10 @@ GROMACS reminds you: "There's no kill like overkill, right?" (Erik Lindahl)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c25101a6f] feat: add 3-p20-t710 radial distribution function and updates to logs
+ 6 files changed, 2185 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p20-t716.log (70%)
+ create mode 100644 results/rdf-3-p20-t710.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8dcef1ae8..c25101a6f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
