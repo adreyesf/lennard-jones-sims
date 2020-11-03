@@ -121,3 +121,11 @@ GROMACS reminds you: "Trying is the first step towards failure." (Homer Simpson)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8d5674349] feat: add 3-p23-t206 radial distribution function and updates to logs
+ 7 files changed, 2201 insertions(+), 118 deletions(-)
+ rewrite logs/rdf-3-p23-t218.log (71%)
+ rewrite logs/sim-3-p23-t224.log (75%)
+ create mode 100644 results/rdf-3-p23-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9da4b4718..8d5674349  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
