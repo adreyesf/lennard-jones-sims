@@ -119,3 +119,11 @@ GROMACS reminds you: "A ship in port is safe, but that is not what ships are for
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9ed07bf0b] feat: add 3-p19-t404 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p19-t410.log (76%)
+ rewrite logs/sim-3-p19-t416.log (75%)
+ create mode 100644 results/rdf-3-p19-t404.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0cf78cff9..9ed07bf0b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
