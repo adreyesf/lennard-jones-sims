@@ -119,3 +119,9 @@ GROMACS reminds you: "I originally implemented PME to prove that you didn't need
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 904460578] feat: add 3-p20-t692 radial distribution function and updates to logs
+ 4 files changed, 2070 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p20-t692.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d1d87eded..904460578  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
