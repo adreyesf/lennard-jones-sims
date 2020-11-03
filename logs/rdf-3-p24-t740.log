@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "When the universe has expanded, time will contract" (Franz Ferdinand)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5ee1081a7] feat: add 3-p24-t740 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 242 deletions(-)
+ rewrite logs/rdf-3-p24-t740.log (75%)
+ rewrite logs/rdf-3-p24-t746.log (70%)
+ create mode 100644 results/rdf-3-p24-t740.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6fc624089..5ee1081a7  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
