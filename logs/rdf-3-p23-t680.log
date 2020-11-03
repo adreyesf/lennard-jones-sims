@@ -119,3 +119,9 @@ GROMACS reminds you: "Get Down In 3D" (George Clinton)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ef2147148] feat: add 3-p23-t680 radial distribution function and updates to logs
+ 4 files changed, 2070 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p23-t680.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   147138bb4..ef2147148  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
