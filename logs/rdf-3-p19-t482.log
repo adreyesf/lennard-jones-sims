@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I Do It All the Time" (Magnapop)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 623336c1b] feat: add 3-p19-t482 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p19-t488.log (70%)
+ rewrite logs/sim-3-p19-t494.log (75%)
+ create mode 100644 results/rdf-3-p19-t482.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7aa6f7e3c..623336c1b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
