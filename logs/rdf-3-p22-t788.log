@@ -119,3 +119,11 @@ GROMACS reminds you: "I Need a Little Poison" (Throwing Muses)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2cef0c979] feat: add 3-p22-t788 radial distribution function and updates to logs
+ 6 files changed, 2300 insertions(+), 242 deletions(-)
+ rewrite logs/rdf-3-p22-t788.log (75%)
+ rewrite logs/rdf-3-p22-t794.log (71%)
+ create mode 100644 results/rdf-3-p22-t788.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   df13dffe6..2cef0c979  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
