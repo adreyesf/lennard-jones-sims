@@ -120,3 +120,9 @@ GROMACS reminds you: "You wouldn't walk into a chemistry lab and mix two clear l
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d2968bdc8] feat: add 3-p25-t242 radial distribution function and updates to logs
+ 5 files changed, 2073 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p25-t242.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e4ae6f3e4..d2968bdc8  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
