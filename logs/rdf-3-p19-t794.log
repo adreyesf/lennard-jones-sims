@@ -119,3 +119,9 @@ GROMACS reminds you: "Scientists do not join hands every Sunday and sing "Yes gr
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f30e8efe0] feat: add 3-p19-t794 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p19-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   50b6c1421..f30e8efe0  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
