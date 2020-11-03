@@ -119,3 +119,11 @@ GROMACS reminds you: "Making merry out of nothing, like in refugee camp" (Gogol 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a9b0820e4] feat: add 3-p19-t518 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p19-t524.log (77%)
+ rewrite logs/sim-3-p19-t530.log (75%)
+ create mode 100644 results/rdf-3-p19-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0a77ee560..a9b0820e4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
