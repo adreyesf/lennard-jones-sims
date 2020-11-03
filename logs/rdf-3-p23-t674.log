@@ -122,3 +122,10 @@ GROMACS reminds you: "Highly organized research is guaranteed to produce nothing
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 147138bb4] feat: add 3-p23-t674 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p23-t680.log (70%)
+ create mode 100644 results/rdf-3-p23-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d17a327c5..147138bb4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
