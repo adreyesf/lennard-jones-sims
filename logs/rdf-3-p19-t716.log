@@ -119,3 +119,10 @@ GROMACS reminds you: "Disturb the Peace of a John Q Citizen" (Urban Dance Squad)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d3d38dae7] feat: add 3-p19-t716 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 117 deletions(-)
+ rewrite logs/rdf-3-p19-t722.log (71%)
+ create mode 100644 results/rdf-3-p19-t716.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a6d05caba..d3d38dae7  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
