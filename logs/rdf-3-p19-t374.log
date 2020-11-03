@@ -119,3 +119,10 @@ GROMACS reminds you: "Thou shalt not kill -9" (Anonymous)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ebae10e0b] feat: add 3-p19-t374 radial distribution function and updates to logs
+ 6 files changed, 2180 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p19-t380.log (70%)
+ create mode 100644 results/rdf-3-p19-t374.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4d8e1fa82..ebae10e0b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
