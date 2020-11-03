@@ -122,3 +122,9 @@ GROMACS reminds you: "Even if you are on the right track, you will get run over 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6f49ffd0b] feat: add 3-p23-t692 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p23-t692.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ab7fdc879..6f49ffd0b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
