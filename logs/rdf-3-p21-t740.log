@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Scientists think they are born with logic; God forbid they should study this discipline with a history of more than two and a half millennia." (Roald Hoffmann)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2f91e355e] feat: add 3-p21-t740 radial distribution function and updates to logs
+ 7 files changed, 2304 insertions(+), 227 deletions(-)
+ rewrite logs/rdf-3-p21-t740.log (71%)
+ rewrite logs/rdf-3-p21-t746.log (71%)
+ create mode 100644 results/rdf-3-p21-t740.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ab13bdaaf..2f91e355e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
