@@ -119,3 +119,10 @@ GROMACS reminds you: "If There Is No Guitar In The House, You Know It's Owner Ca
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2573575d2] feat: add 3-p23-t446 radial distribution function and updates to logs
+ 5 files changed, 2184 insertions(+), 126 deletions(-)
+ rewrite logs/rdf-3-p23-t446.log (74%)
+ create mode 100644 results/rdf-3-p23-t446.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   40bfc3018..2573575d2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
