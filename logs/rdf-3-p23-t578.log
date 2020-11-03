@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Never measure the height of a mountain until you have reached the top. Then you will see how low it was." (Dag Hammarskjold)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bd9a5f1b3] feat: add 3-p23-t578 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 227 deletions(-)
+ rewrite logs/rdf-3-p23-t578.log (71%)
+ rewrite logs/rdf-3-p23-t584.log (71%)
+ rewrite logs/sim-3-p23-t590.log (75%)
+ create mode 100644 results/rdf-3-p23-t578.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ee782e36f..bd9a5f1b3  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
