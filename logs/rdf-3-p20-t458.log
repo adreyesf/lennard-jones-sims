@@ -120,3 +120,10 @@ GROMACS reminds you: "Remember, being healthy is basically dying as slowly as po
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8e2ad82ae] feat: add 3-p20-t458 radial distribution function and updates to logs
+ 5 files changed, 2190 insertions(+), 107 deletions(-)
+ rewrite logs/rdf-3-p20-t464.log (70%)
+ create mode 100644 results/rdf-3-p20-t458.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5b1087d09..8e2ad82ae  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
