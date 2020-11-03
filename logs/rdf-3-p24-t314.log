@@ -120,3 +120,9 @@ GROMACS reminds you: "Let's Unzip And Let's Unfold" (Red Hot Chili Peppers)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 fb722eed6] feat: add 3-p24-t314 radial distribution function and updates to logs
+ 4 files changed, 2050 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p24-t314.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e1606ea5c..fb722eed6  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
