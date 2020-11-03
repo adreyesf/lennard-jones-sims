@@ -119,3 +119,10 @@ GROMACS reminds you: "Sitting on a rooftop watching molecules collide" (A Camp)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3f3acfe2a] feat: add 3-p23-t236 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p23-t242.log (70%)
+ create mode 100644 results/rdf-3-p23-t236.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ccf0a5f1f..3f3acfe2a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
