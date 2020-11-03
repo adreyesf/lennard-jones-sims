@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "For a research worker the unforgotten moments of his life are those rare ones which come after years of plodding work, when the veil over natures secret seems suddenly to lift & when what was dark & chaotic appears in a clear & beautiful light & pattern." (Gerty Cori)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 cf8d1fd32] feat: add 3-p20-t572 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p20-t578.log (71%)
+ rewrite logs/sim-3-p20-t584.log (75%)
+ create mode 100644 results/rdf-3-p20-t572.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ffdd0e2a3..cf8d1fd32  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
