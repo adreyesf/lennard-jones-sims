@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Everything's formed from particles" (Van der Graaf Generator)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7e3c659ae] feat: add 3-p22-t758 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 264 deletions(-)
+ rewrite logs/rdf-3-p22-t758.log (75%)
+ rewrite logs/rdf-3-p22-t764.log (73%)
+ rewrite logs/sim-3-p22-t770.log (75%)
+ create mode 100644 results/rdf-3-p22-t758.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   057de4414..7e3c659ae  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
