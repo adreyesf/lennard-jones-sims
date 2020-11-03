@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "She Says She Can't Go Home Without a Chaperone" (E. Costello)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 564360bf2] feat: add 3-p21-t794 radial distribution function and updates to logs
+ 7 files changed, 2300 insertions(+), 242 deletions(-)
+ rewrite logs/rdf-3-p21-t794.log (75%)
+ rewrite logs/rdf-3-p21-t800.log (70%)
+ create mode 100644 results/rdf-3-p21-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4a0ebe3c9..564360bf2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
