@@ -119,3 +119,11 @@ GROMACS reminds you: "Shaken, not Stirred" (J. Bond)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 59ab41102] feat: add 3-p22-t602 radial distribution function and updates to logs
+ 5 files changed, 2298 insertions(+), 272 deletions(-)
+ rewrite logs/rdf-3-p22-t602.log (77%)
+ rewrite logs/rdf-3-p22-t608.log (71%)
+ create mode 100644 results/rdf-3-p22-t602.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8c204e5ff..59ab41102  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
