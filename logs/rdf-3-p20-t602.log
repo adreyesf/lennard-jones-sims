@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Chance favors the prepared mind." (Louis Pasteur)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 44aaec594] feat: add 3-p20-t602 radial distribution function and updates to logs
+ 6 files changed, 2299 insertions(+), 249 deletions(-)
+ rewrite logs/rdf-3-p20-t602.log (75%)
+ rewrite logs/rdf-3-p20-t608.log (73%)
+ create mode 100644 results/rdf-3-p20-t602.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6f406003f..44aaec594  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
