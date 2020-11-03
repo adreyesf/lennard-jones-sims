@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Stop Drinking My Beer !" (The Amps)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0cca6ba98] feat: add 3-p21-t512 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 149 deletions(-)
+ rewrite logs/rdf-3-p21-t518.log (76%)
+ rewrite logs/sim-3-p21-t524.log (75%)
+ create mode 100644 results/rdf-3-p21-t512.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   42783b5eb..0cca6ba98  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
