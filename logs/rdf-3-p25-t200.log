@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The Wheels On the Bus Go Round and Round" (J. Richman)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 74487f974] feat: add 3-p25-t200 radial distribution function and updates to logs
+ 8 files changed, 2339 insertions(+), 246 deletions(-)
+ rewrite logs/rdf-3-p25-t206.log (72%)
+ rewrite logs/rdf-3-p25-t212.log (74%)
+ create mode 100644 results/rdf-3-p25-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e9ef4ac10..74487f974  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
