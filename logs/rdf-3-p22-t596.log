@@ -120,3 +120,9 @@ GROMACS reminds you: "It has been discovered that C++ provides a remarkable faci
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8c204e5ff] feat: add 3-p22-t596 radial distribution function and updates to logs
+ 4 files changed, 2075 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p22-t596.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   bdc39d933..8c204e5ff  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
