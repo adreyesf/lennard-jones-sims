@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Do not go where the path may lead, go instead where there is no path and leave a trail" (Ralph Waldo Emerson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 15bdf0c49] feat: add 3-p21-t692 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 245 deletions(-)
+ rewrite logs/rdf-3-p21-t692.log (75%)
+ rewrite logs/rdf-3-p21-t698.log (71%)
+ rewrite logs/sim-3-p21-t704.log (75%)
+ create mode 100644 results/rdf-3-p21-t692.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a924ffcd3..15bdf0c49  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
