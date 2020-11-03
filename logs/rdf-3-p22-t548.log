@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The physical chemists never use their eyes and are most lamentably lacking in chemical culture. It is essential to cast out from our midst, root and branch, this physical element and return to our laboratories." (Henry Edward Armstrong)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 90dd9f0c6] feat: add 3-p22-t548 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 132 deletions(-)
+ rewrite logs/rdf-3-p22-t554.log (75%)
+ rewrite logs/sim-3-p22-t560.log (75%)
+ create mode 100644 results/rdf-3-p22-t548.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f558fbc85..90dd9f0c6  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
