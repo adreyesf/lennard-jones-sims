@@ -119,3 +119,10 @@ GROMACS reminds you: ""Everything organic and natural is good" - ignoring the fa
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 75b928e2d] feat: add 3-p23-t542 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p23-t548.log (78%)
+ create mode 100644 results/rdf-3-p23-t542.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   707c43dcd..75b928e2d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
