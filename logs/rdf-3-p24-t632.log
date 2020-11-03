@@ -119,3 +119,11 @@ GROMACS reminds you: "Interfacing Space and Beyond..." (P. J. Harvey)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e61f3b2ed] feat: add 3-p24-t632 radial distribution function and updates to logs
+ 7 files changed, 2299 insertions(+), 264 deletions(-)
+ rewrite logs/rdf-3-p24-t632.log (77%)
+ rewrite logs/rdf-3-p24-t638.log (69%)
+ create mode 100644 results/rdf-3-p24-t632.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c520860b4..e61f3b2ed  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
