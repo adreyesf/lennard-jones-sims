@@ -119,3 +119,10 @@ GROMACS reminds you: "A computer without COBOL and FORTRAN is like a piece of ch
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 b56df9c8b] feat: add 3-p23-t734 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 110 deletions(-)
+ rewrite logs/rdf-3-p23-t740.log (70%)
+ create mode 100644 results/rdf-3-p23-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7b1544df9..b56df9c8b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
