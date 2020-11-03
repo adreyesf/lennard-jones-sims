@@ -119,3 +119,10 @@ GROMACS reminds you: "Nothing shocks me. I'm a scientist." (Harrison Ford as Ind
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 134172ebe] feat: add 3-p20-t260 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 153 deletions(-)
+ rewrite logs/rdf-3-p20-t266.log (77%)
+ create mode 100644 results/rdf-3-p20-t260.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7e86c07a9..134172ebe  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
