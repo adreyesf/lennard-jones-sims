@@ -119,3 +119,10 @@ GROMACS reminds you: "The great tragedy of science - the slaying of a beautiful 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 94816b52d] feat: add 3-p24-t284 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p24-t290.log (71%)
+ create mode 100644 results/rdf-3-p24-t284.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   93599e73d..94816b52d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
