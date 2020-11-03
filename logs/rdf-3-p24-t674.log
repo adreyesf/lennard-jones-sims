@@ -119,3 +119,12 @@ GROMACS reminds you: "User-friendly, adj.: Programmer-hostile." (New Hacker's Di
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2b2bf3389] feat: add 3-p24-t674 radial distribution function and updates to logs
+ 7 files changed, 2313 insertions(+), 262 deletions(-)
+ rewrite logs/rdf-3-p24-t674.log (77%)
+ rewrite logs/rdf-3-p24-t680.log (70%)
+ rewrite logs/sim-3-p24-t686.log (75%)
+ create mode 100644 results/rdf-3-p24-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   02dbaaab9..2b2bf3389  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
