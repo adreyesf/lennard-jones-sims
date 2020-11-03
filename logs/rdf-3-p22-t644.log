@@ -121,3 +121,10 @@ GROMACS reminds you: "The soul? There's nothing but chemistry here" (Breaking Ba
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 61ae88f32] feat: add 3-p22-t644 radial distribution function and updates to logs
+ 5 files changed, 2187 insertions(+), 121 deletions(-)
+ rewrite logs/rdf-3-p22-t650.log (73%)
+ create mode 100644 results/rdf-3-p22-t644.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   97d6905e4..61ae88f32  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
