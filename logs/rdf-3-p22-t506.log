@@ -120,3 +120,10 @@ GROMACS reminds you: "Everything He Lacks, He Makes Up In Denial" (Offspring)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e80a70626] feat: add 3-p22-t506 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p22-t512.log (77%)
+ create mode 100644 results/rdf-3-p22-t506.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   54d3eb42c..e80a70626  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
