@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "If you don't know what you're doing, use a (M)BAR-based method" (Erik Lindahl)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f574e7d39] feat: add 3-p21-t626 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 230 deletions(-)
+ rewrite logs/rdf-3-p21-t626.log (70%)
+ rewrite logs/rdf-3-p21-t632.log (73%)
+ rewrite logs/sim-3-p21-t638.log (75%)
+ create mode 100644 results/rdf-3-p21-t626.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c262008bf..f574e7d39  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
