@@ -119,3 +119,12 @@ GROMACS reminds you: "How Do You Like Your Vacation So Far ?" (Speed 2 - Cruise 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 4e93ad56b] feat: add 3-p19-t800 radial distribution function and updates to logs
+ 7 files changed, 2315 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p19-t800.log (76%)
+ rewrite logs/rdf-3-p20-t200.log (72%)
+ rewrite logs/sim-3-p20-t206.log (75%)
+ create mode 100644 results/rdf-3-p19-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f30e8efe0..4e93ad56b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
