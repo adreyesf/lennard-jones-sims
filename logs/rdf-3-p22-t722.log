@@ -122,3 +122,9 @@ GROMACS reminds you: "If it weren't for bad luck, we'd have no luck at all" (The
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0c0c34356] feat: add 3-p22-t722 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p22-t722.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   caec67e2a..0c0c34356  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
