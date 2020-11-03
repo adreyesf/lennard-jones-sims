@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I hadn't been aware that there were doors closed to me until I started knocking on them." (Gertrude Elion)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d1bafde4b] feat: add 3-p19-t554 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p19-t560.log (77%)
+ rewrite logs/sim-3-p19-t566.log (75%)
+ create mode 100644 results/rdf-3-p19-t554.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b07ee6242..d1bafde4b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
