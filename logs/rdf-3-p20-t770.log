@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "There is just one thing I can promise you about the outer-space program: your tax dollar will go farther." (Wernher von Braun)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f2eac4b70] feat: add 3-p20-t770 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 250 deletions(-)
+ rewrite logs/rdf-3-p20-t770.log (75%)
+ rewrite logs/rdf-3-p20-t776.log (70%)
+ rewrite logs/sim-3-p20-t782.log (75%)
+ create mode 100644 results/rdf-3-p20-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   032caa33f..f2eac4b70  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
