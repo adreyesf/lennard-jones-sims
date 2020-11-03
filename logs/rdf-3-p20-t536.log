@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Your Shopping Techniques are Amazing" (Gogol Bordello)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1f5a448ed] feat: add 3-p20-t536 radial distribution function and updates to logs
+ 8 files changed, 2336 insertions(+), 234 deletions(-)
+ rewrite logs/rdf-3-p20-t536.log (74%)
+ rewrite logs/rdf-3-p20-t542.log (70%)
+ create mode 100644 results/rdf-3-p20-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4630e8a94..1f5a448ed  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
