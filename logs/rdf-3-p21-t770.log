@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Even the *healthy* people move in clouds of cigarette smoke, women straining polyester, men in raggedly cutoffs slathering mayonnaise on foot-long hot dogs. It's as if the hotel were hosting a conference on adult onset diabetes" (Jess Walter)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9b4707ab1] feat: add 3-p21-t770 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p21-t776.log (71%)
+ create mode 100644 results/rdf-3-p21-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c0e7f8316..9b4707ab1  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
