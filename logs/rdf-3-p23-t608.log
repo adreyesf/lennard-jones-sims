@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I'll Match Your DNA" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 923f5117a] feat: add 3-p23-t608 radial distribution function and updates to logs
+ 7 files changed, 2304 insertions(+), 256 deletions(-)
+ rewrite logs/rdf-3-p23-t608.log (77%)
+ rewrite logs/rdf-3-p23-t614.log (71%)
+ create mode 100644 results/rdf-3-p23-t608.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   64d7fd362..923f5117a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
