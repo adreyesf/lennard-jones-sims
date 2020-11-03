@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "We ignore public understanding of science at our peril." (Eugenie Clark)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 15b0dcb5f] feat: add 3-p20-t758 radial distribution function and updates to logs
+ 7 files changed, 2304 insertions(+), 241 deletions(-)
+ rewrite logs/rdf-3-p20-t758.log (75%)
+ rewrite logs/rdf-3-p20-t764.log (70%)
+ create mode 100644 results/rdf-3-p20-t758.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   724cb0555..15b0dcb5f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
