@@ -121,3 +121,10 @@ GROMACS reminds you: "Rub It Right Accross Your Eyes" (F. Zappa)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5c96e761d] feat: add 3-p23-t662 radial distribution function and updates to logs
+ 5 files changed, 2189 insertions(+), 108 deletions(-)
+ rewrite logs/rdf-3-p23-t668.log (70%)
+ create mode 100644 results/rdf-3-p23-t662.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   07c8b9247..5c96e761d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
