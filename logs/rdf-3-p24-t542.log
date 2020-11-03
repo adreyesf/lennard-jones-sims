@@ -121,3 +121,11 @@ GROMACS reminds you: "Shake Barrels Of Whisky Down My Throat" (Throwing Muses)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bf710e471] feat: add 3-p24-t542 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p24-t548.log (70%)
+ rewrite logs/sim-3-p24-t554.log (75%)
+ create mode 100644 results/rdf-3-p24-t542.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   614513eb6..bf710e471  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
