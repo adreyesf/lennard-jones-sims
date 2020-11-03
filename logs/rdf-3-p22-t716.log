@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Chemical gases filling lungs of little ones" (Black Eyed Peas)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 caec67e2a] feat: add 3-p22-t716 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p22-t722.log (70%)
+ rewrite logs/sim-3-p22-t728.log (75%)
+ create mode 100644 results/rdf-3-p22-t716.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   68866f6b3..caec67e2a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
