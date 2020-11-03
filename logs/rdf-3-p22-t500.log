@@ -119,3 +119,11 @@ GROMACS reminds you: "Programming today is a race between software engineers str
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 54d3eb42c] feat: add 3-p22-t500 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 118 deletions(-)
+ rewrite logs/rdf-3-p22-t506.log (71%)
+ rewrite logs/sim-3-p22-t512.log (75%)
+ create mode 100644 results/rdf-3-p22-t500.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6c65f9340..54d3eb42c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
