@@ -119,3 +119,10 @@ GROMACS reminds you: "We mathematicians are all a bit crazy." (Lev Landau)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ed75c994a] feat: add 3-p25-t254 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p25-t260.log (76%)
+ create mode 100644 results/rdf-3-p25-t254.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fe370b3ec..ed75c994a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
