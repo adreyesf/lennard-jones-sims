@@ -122,3 +122,9 @@ GROMACS reminds you: "A Man Needs a Maid" (N. Young)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 62d8605fd] feat: add 3-p22-t776 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p22-t776.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   601567776..62d8605fd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
