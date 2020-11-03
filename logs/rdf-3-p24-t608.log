@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "A ship in port is safe, but that is not what ships are for. Sail out to sea and do new things." (Grace Hopper, developer of COBOL)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 66ff55cfe] feat: add 3-p24-t608 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p24-t614.log (70%)
+ create mode 100644 results/rdf-3-p24-t608.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   909c556a7..66ff55cfe  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
