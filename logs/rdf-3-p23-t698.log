@@ -119,3 +119,11 @@ GROMACS reminds you: "What is a Unix or Linux sysadmin's favourite hangout place
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f1ea08131] feat: add 3-p23-t698 radial distribution function and updates to logs
+ 6 files changed, 2299 insertions(+), 239 deletions(-)
+ rewrite logs/rdf-3-p23-t698.log (71%)
+ rewrite logs/rdf-3-p23-t704.log (75%)
+ create mode 100644 results/rdf-3-p23-t698.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6f49ffd0b..f1ea08131  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
