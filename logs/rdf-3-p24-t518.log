@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I like to wait, then I feel like I do something" (Carl Caleman)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ffb05ffe4] feat: add 3-p24-t518 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 151 deletions(-)
+ rewrite logs/rdf-3-p24-t524.log (77%)
+ create mode 100644 results/rdf-3-p24-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   dde9592a5..ffb05ffe4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
