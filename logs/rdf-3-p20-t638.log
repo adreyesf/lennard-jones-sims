@@ -130,3 +130,9 @@ rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
 fatal: pathspec '../results/rdf-3-p20-t638.xvg' did not match any files
+[u1 1cf6e4f9d] feat: add 3-p20-t638 radial distribution function and updates to logs
+ 5 files changed, 151 insertions(+), 57 deletions(-)
+ rewrite logs/sim-3-p20-t644.log (75%)
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2718e5373..1cf6e4f9d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
