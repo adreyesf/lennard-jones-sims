@@ -120,3 +120,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I Live the Life They Wish They Did" (Tricky)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6c1caa75c] feat: add 3-p20-t200 radial distribution function and updates to logs
+ 6 files changed, 2210 insertions(+), 152 deletions(-)
+ rewrite logs/rdf-3-p20-t206.log (77%)
+ create mode 100644 results/rdf-3-p20-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4e93ad56b..6c1caa75c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
