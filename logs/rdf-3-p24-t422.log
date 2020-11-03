@@ -119,3 +119,13 @@ GROMACS reminds you: "Two chemists walk into a bar. The first one says, 'I'll ha
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[u1 af627f15b] feat: add 3-p24-t422 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p24-t428.log (77%)
+ rewrite logs/sim-3-p24-t434.log (75%)
+ create mode 100644 results/rdf-3-p24-t422.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   74ef98b30..af627f15b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
