@@ -119,3 +119,10 @@ GROMACS reminds you: "Catholic School Girls Rule" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ed020cad8] feat: add 3-p19-t638 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 121 deletions(-)
+ rewrite logs/rdf-3-p19-t644.log (73%)
+ create mode 100644 results/rdf-3-p19-t638.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   55ddc9157..ed020cad8  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
