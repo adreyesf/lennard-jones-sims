@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Weaseling out of things is important to learn. It's what separates us from the animals... except the weasels." (Homer Simpson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 cf90eff7e] feat: add 3-p23-t770 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 251 deletions(-)
+ rewrite logs/rdf-3-p23-t770.log (70%)
+ rewrite logs/rdf-3-p23-t776.log (75%)
+ rewrite logs/sim-3-p23-t782.log (75%)
+ create mode 100644 results/rdf-3-p23-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   37e6e39a5..cf90eff7e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
