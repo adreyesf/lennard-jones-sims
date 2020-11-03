@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Youth is wasted on the young" (The Smashing Pumpkins)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2718e5373] feat: add 3-p20-t626 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 115 deletions(-)
+ rewrite logs/rdf-3-p20-t632.log (70%)
+ rewrite logs/sim-3-p20-t638.log (75%)
+ create mode 100644 results/rdf-3-p20-t626.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4657ba7c8..2718e5373  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
