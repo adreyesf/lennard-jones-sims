@@ -119,3 +119,10 @@ GROMACS reminds you: "The Carpenter Goes Bang Bang" (The Breeders)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9fd88f1d5] feat: add 3-p22-t368 radial distribution function and updates to logs
+ 6 files changed, 2208 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p22-t374.log (70%)
+ create mode 100644 results/rdf-3-p22-t368.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3b4c0a744..9fd88f1d5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
