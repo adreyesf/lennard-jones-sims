@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Home computers are being called upon to perform many new functions, including the consumption of homework formerly eaten by the dog." (Doug Larson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 30a9b7049] feat: add 3-p23-t788 radial distribution function and updates to logs
+ 8 files changed, 2337 insertions(+), 222 deletions(-)
+ rewrite logs/rdf-3-p23-t788.log (71%)
+ rewrite logs/rdf-3-p23-t794.log (70%)
+ create mode 100644 results/rdf-3-p23-t788.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0315b6d11..30a9b7049  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
