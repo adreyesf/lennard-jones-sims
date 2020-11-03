@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Now it's filled with hundreds and hundreds of chemicals" (Midlake)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 268cf0ece] feat: add 3-p19-t668 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 268 deletions(-)
+ rewrite logs/rdf-3-p19-t668.log (71%)
+ rewrite logs/rdf-3-p19-t674.log (77%)
+ create mode 100644 results/rdf-3-p19-t668.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   509023c31..268cf0ece  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
