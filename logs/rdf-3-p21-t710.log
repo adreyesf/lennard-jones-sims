@@ -119,3 +119,10 @@ GROMACS reminds you: "Here, kitty, kitty..." (Erwin Schroedinger)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7891efa2a] feat: add 3-p21-t710 radial distribution function and updates to logs
+ 5 files changed, 2184 insertions(+), 141 deletions(-)
+ rewrite logs/rdf-3-p21-t710.log (75%)
+ create mode 100644 results/rdf-3-p21-t710.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ce878184c..7891efa2a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
