@@ -122,3 +122,9 @@ GROMACS reminds you: "If I Were You I Would Give Me a Break" (F. Black)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e79384d58] feat: add 3-p24-t614 radial distribution function and updates to logs
+ 4 files changed, 2075 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p24-t614.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   66ff55cfe..e79384d58  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
