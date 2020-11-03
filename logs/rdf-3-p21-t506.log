@@ -120,3 +120,11 @@ GROMACS reminds you: "Beat On the Brat With a Baseball Bat" (The Ramones)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 42783b5eb] feat: add 3-p21-t506 radial distribution function and updates to logs
+ 6 files changed, 2204 insertions(+), 111 deletions(-)
+ rewrite logs/rdf-3-p21-t512.log (70%)
+ rewrite logs/sim-3-p21-t518.log (75%)
+ create mode 100644 results/rdf-3-p21-t506.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f3d857c96..42783b5eb  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
