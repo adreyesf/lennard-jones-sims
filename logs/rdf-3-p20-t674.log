@@ -119,3 +119,10 @@ GROMACS reminds you: "Here are all the 'gmx' tools... but no gmx writethesis" (C
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 32a98e62d] feat: add 3-p20-t674 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 151 deletions(-)
+ rewrite logs/rdf-3-p20-t680.log (77%)
+ create mode 100644 results/rdf-3-p20-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1d2b48456..32a98e62d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
