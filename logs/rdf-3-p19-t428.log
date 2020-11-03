@@ -119,3 +119,10 @@ GROMACS reminds you: "The use of COBOL cripples the mind; its teaching should th
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 99a83afea] feat: add 3-p19-t428 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 154 deletions(-)
+ rewrite logs/rdf-3-p19-t434.log (77%)
+ create mode 100644 results/rdf-3-p19-t428.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1702267ba..99a83afea  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
