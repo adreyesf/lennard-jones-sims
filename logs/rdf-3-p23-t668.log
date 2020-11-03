@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Those who cannot remember the past are condemned to compute it." (Steve Pinker)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d17a327c5] feat: add 3-p23-t668 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 145 deletions(-)
+ rewrite logs/rdf-3-p23-t674.log (76%)
+ create mode 100644 results/rdf-3-p23-t668.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5c96e761d..d17a327c5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
