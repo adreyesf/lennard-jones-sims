@@ -119,3 +119,11 @@ GROMACS reminds you: "Computer dating is fine, if you are a computer." (Rita May
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 adb0b8bfa] feat: add 3-p20-t800 radial distribution function and updates to logs
+ 6 files changed, 2300 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p20-t800.log (70%)
+ rewrite logs/rdf-3-p21-t200.log (75%)
+ create mode 100644 results/rdf-3-p20-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   685e7242b..adb0b8bfa  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
