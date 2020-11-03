@@ -120,3 +120,10 @@ GROMACS reminds you: "Your Country Needs YOU" (U.S. Army)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d563a120d] feat: add 3-p21-t728 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 156 deletions(-)
+ rewrite logs/rdf-3-p21-t734.log (77%)
+ create mode 100644 results/rdf-3-p21-t728.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d5cc32e6c..d563a120d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
