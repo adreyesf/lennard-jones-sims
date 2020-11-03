@@ -119,3 +119,11 @@ GROMACS reminds you: "Good judgement is the result of experience; experience is 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d142ca43a] feat: add 3-p20-t386 radial distribution function and updates to logs
+ 8 files changed, 2340 insertions(+), 252 deletions(-)
+ rewrite logs/rdf-3-p20-t386.log (70%)
+ rewrite logs/rdf-3-p20-t392.log (75%)
+ create mode 100644 results/rdf-3-p20-t386.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0b23af39b..d142ca43a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
