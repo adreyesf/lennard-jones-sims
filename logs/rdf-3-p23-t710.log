@@ -120,3 +120,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Come on boys, Let's push it hard" (P.J. Harvey)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c4b44ad02] feat: add 3-p23-t710 radial distribution function and updates to logs
+ 6 files changed, 2191 insertions(+), 115 deletions(-)
+ rewrite logs/rdf-3-p23-t716.log (71%)
+ create mode 100644 results/rdf-3-p23-t710.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8526b65bb..c4b44ad02  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
