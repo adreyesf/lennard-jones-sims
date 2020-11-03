@@ -121,3 +121,11 @@ GROMACS reminds you: "It's more useful when you know what you're doing." (Artem 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 fd0d2ab3c] feat: add 3-p22-t524 radial distribution function and updates to logs
+ 6 files changed, 2191 insertions(+), 145 deletions(-)
+ rewrite logs/rdf-3-p22-t530.log (75%)
+ rewrite logs/sim-3-p22-t536.log (75%)
+ create mode 100644 results/rdf-3-p22-t524.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   be25663b8..fd0d2ab3c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
