@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "There was no preconception on what to do" (Daft Punk)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 870527837] feat: add 3-p24-t656 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 247 deletions(-)
+ rewrite logs/rdf-3-p24-t656.log (71%)
+ rewrite logs/rdf-3-p24-t662.log (75%)
+ create mode 100644 results/rdf-3-p24-t656.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f73914220..870527837  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
