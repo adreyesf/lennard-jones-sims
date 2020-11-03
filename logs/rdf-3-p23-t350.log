@@ -119,3 +119,11 @@ GROMACS reminds you: "There are only two hard things in computer science - cache
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 79bf5faef] feat: add 3-p23-t350 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p23-t356.log (70%)
+ rewrite logs/sim-3-p23-t362.log (75%)
+ create mode 100644 results/rdf-3-p23-t350.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f67a62968..79bf5faef  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
