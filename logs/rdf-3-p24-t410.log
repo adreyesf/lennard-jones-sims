@@ -119,3 +119,11 @@ GROMACS reminds you: "Jede der Scherben spiegelt das Licht" (Wir sind Helden)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e233dc6af] feat: add 3-p24-t410 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p24-t416.log (77%)
+ rewrite logs/sim-3-p24-t422.log (75%)
+ create mode 100644 results/rdf-3-p24-t410.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fa20bab20..e233dc6af  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
