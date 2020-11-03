@@ -119,3 +119,11 @@ GROMACS reminds you: "If You're So Special Why aren't You Dead ?" (The Breeders)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0a0fea819] feat: add 3-p19-t278 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p19-t284.log (70%)
+ rewrite logs/sim-3-p19-t290.log (75%)
+ create mode 100644 results/rdf-3-p19-t278.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8640a1c59..0a0fea819  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
