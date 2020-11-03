@@ -121,3 +121,11 @@ GROMACS reminds you: "Gabba Gabba Hey!" (The Ramones)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d1210e437] feat: add 3-p24-t590 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p24-t596.log (71%)
+ rewrite logs/sim-3-p24-t602.log (75%)
+ create mode 100644 results/rdf-3-p24-t590.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   43e588ce0..d1210e437  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
