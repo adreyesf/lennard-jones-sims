@@ -121,3 +121,11 @@ GROMACS reminds you: "My Ass May Be Dumb, But I Ain't No Dumbass." (Jackie Brown
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c064c72e8] feat: add 3-p23-t458 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p23-t464.log (70%)
+ rewrite logs/sim-3-p23-t470.log (75%)
+ create mode 100644 results/rdf-3-p23-t458.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d973f5d3a..c064c72e8  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
