@@ -119,3 +119,11 @@ GROMACS reminds you: "Welcome to the Power Age" (2 Unlimited)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 521433d62] feat: add 3-p25-t380 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 140 deletions(-)
+ rewrite logs/rdf-3-p25-t386.log (76%)
+ rewrite logs/sim-3-p25-t392.log (75%)
+ create mode 100644 results/rdf-3-p25-t380.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a6a7fe722..521433d62  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
