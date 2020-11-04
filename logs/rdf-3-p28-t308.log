@@ -119,3 +119,10 @@ GROMACS reminds you: "I Could Take You Home and Abuse You" (Magnapop)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1347c7f09] feat: add 3-p28-t308 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p28-t314.log (71%)
+ create mode 100644 results/rdf-3-p28-t308.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   54549d7b0..1347c7f09  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
