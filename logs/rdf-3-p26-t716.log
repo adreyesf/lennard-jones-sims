@@ -121,3 +121,10 @@ GROMACS reminds you: "For a research worker the unforgotten moments of his life 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 91ff39b40] feat: add 3-p26-t716 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p26-t722.log (71%)
+ create mode 100644 results/rdf-3-p26-t716.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c8a1811ca..91ff39b40  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
