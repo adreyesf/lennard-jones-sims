@@ -122,3 +122,9 @@ GROMACS reminds you: "I Am a Wonderful Thing" (Kid Creole)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6b1a05320] feat: add 3-p29-t740 radial distribution function and updates to logs
+ 4 files changed, 2073 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p29-t740.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9a76de0cb..6b1a05320  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
