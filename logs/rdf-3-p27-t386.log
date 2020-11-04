@@ -119,3 +119,11 @@ GROMACS reminds you: "Hang On to Your Ego" (F. Black)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c1181f7ce] feat: add 3-p27-t386 radial distribution function and updates to logs
+ 6 files changed, 2169 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p27-t392.log (71%)
+ rewrite logs/sim-3-p27-t398.log (75%)
+ create mode 100644 results/rdf-3-p27-t386.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   229bc271e..c1181f7ce  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
