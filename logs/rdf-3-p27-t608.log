@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I'd be Safe and Warm if I was in L.A." (The Mamas and the Papas)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 88be4ab73] feat: add 3-p27-t608 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 236 deletions(-)
+ rewrite logs/rdf-3-p27-t608.log (71%)
+ rewrite logs/rdf-3-p27-t614.log (73%)
+ rewrite logs/sim-3-p27-t620.log (75%)
+ create mode 100644 results/rdf-3-p27-t608.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   db38f06d9..88be4ab73  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
