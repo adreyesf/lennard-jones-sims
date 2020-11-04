@@ -120,3 +120,11 @@ GROMACS reminds you: "Hmm, It *Does* Go Well With the Chicken" (Beastie Boys)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 02918461c] feat: add 3-p25-t476 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p25-t482.log (77%)
+ rewrite logs/sim-3-p25-t488.log (75%)
+ create mode 100644 results/rdf-3-p25-t476.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   aeda396de..02918461c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
