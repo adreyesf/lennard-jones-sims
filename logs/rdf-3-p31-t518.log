@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk." (John von Neumann)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 34e7e47aa] feat: add 3-p31-t518 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p31-t524.log (70%)
+ create mode 100644 results/rdf-3-p31-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ba2026ebe..34e7e47aa  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
