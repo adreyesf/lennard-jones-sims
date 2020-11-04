@@ -119,3 +119,10 @@ GROMACS reminds you: "Since the mathematicians have invaded the theory of relati
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 dd5ce148b] feat: add 3-p28-t404 radial distribution function and updates to logs
+ 6 files changed, 2177 insertions(+), 121 deletions(-)
+ rewrite logs/rdf-3-p28-t410.log (73%)
+ create mode 100644 results/rdf-3-p28-t404.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8c1fe36f7..dd5ce148b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
