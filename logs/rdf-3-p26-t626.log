@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "They're Red Hot" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 afba47a8b] feat: add 3-p26-t626 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p26-t632.log (78%)
+ rewrite logs/sim-3-p26-t638.log (75%)
+ create mode 100644 results/rdf-3-p26-t626.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fdfa32002..afba47a8b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
