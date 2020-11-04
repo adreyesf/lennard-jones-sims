@@ -119,3 +119,11 @@ GROMACS reminds you: "An intellectual is someone who has found something more in
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 75fcfe97c] feat: add 3-p29-t758 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 119 deletions(-)
+ rewrite logs/rdf-3-p29-t764.log (72%)
+ rewrite logs/sim-3-p29-t770.log (75%)
+ create mode 100644 results/rdf-3-p29-t758.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3fa00f2d5..75fcfe97c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
