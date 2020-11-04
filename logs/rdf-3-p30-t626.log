@@ -119,3 +119,11 @@ GROMACS reminds you: "Do not quench your inspiration and your imagination; do no
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3e672f12f] feat: add 3-p30-t626 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 125 deletions(-)
+ rewrite logs/rdf-3-p30-t632.log (73%)
+ rewrite logs/sim-3-p30-t638.log (75%)
+ create mode 100644 results/rdf-3-p30-t626.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9d71fbd09..3e672f12f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
