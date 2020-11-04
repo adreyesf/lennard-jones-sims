@@ -120,3 +120,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "C has the power of assembly language and the convenience of... assembly language." (Dennis Ritchie)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 42ace1669] feat: add 3-p31-t206 radial distribution function and updates to logs
+ 10 files changed, 2486 insertions(+), 391 deletions(-)
+ rewrite logs/rdf-3-p31-t206.log (77%)
+ rewrite logs/rdf-3-p31-t212.log (72%)
+ rewrite logs/rdf-3-p31-t218.log (76%)
+ create mode 100644 results/rdf-3-p31-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   bfb4df9bf..42ace1669  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
