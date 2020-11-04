@@ -119,3 +119,10 @@ GROMACS reminds you: "Everything Must Go" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3decad610] feat: add 3-p25-t512 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 158 deletions(-)
+ rewrite logs/rdf-3-p25-t518.log (78%)
+ create mode 100644 results/rdf-3-p25-t512.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4382e1068..3decad610  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
