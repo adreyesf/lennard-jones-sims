@@ -120,3 +120,9 @@ GROMACS reminds you: "To survive science you have to become science." (Gerrit Gr
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 149608bae] feat: add 3-p29-t632 radial distribution function and updates to logs
+ 4 files changed, 2074 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p29-t632.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   048e607d8..149608bae  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
