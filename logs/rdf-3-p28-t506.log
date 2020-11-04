@@ -119,3 +119,11 @@ GROMACS reminds you: "One Ripple At a Time" (Bianca's Smut Shack)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8ecaf0b7c] feat: add 3-p28-t506 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p28-t512.log (77%)
+ rewrite logs/sim-3-p28-t518.log (75%)
+ create mode 100644 results/rdf-3-p28-t506.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a2ef33fb1..8ecaf0b7c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
