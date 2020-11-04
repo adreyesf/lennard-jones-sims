@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The soul? There's nothing but chemistry here" (Breaking Bad)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ec8e8095c] feat: add 3-p30-t578 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 125 deletions(-)
+ rewrite logs/rdf-3-p30-t584.log (73%)
+ rewrite logs/sim-3-p30-t590.log (75%)
+ create mode 100644 results/rdf-3-p30-t578.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8f188dd55..ec8e8095c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
