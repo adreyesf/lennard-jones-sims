@@ -121,3 +121,10 @@ GROMACS reminds you: "Just a Minute While I Reinvent Myself" (Red Hot Chili Pepp
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3d0ffd95d] feat: add 3-p28-t236 radial distribution function and updates to logs
+ 6 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p28-t242.log (70%)
+ create mode 100644 results/rdf-3-p28-t236.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ca946d9f4..3d0ffd95d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
