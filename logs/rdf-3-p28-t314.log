@@ -119,3 +119,10 @@ GROMACS reminds you: "The most exciting phrase to hear in science, the one that 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 528b16b6f] feat: add 3-p28-t314 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 115 deletions(-)
+ rewrite logs/rdf-3-p28-t320.log (71%)
+ create mode 100644 results/rdf-3-p28-t314.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1347c7f09..528b16b6f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
