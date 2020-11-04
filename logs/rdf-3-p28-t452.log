@@ -119,3 +119,11 @@ GROMACS reminds you: "There is an infinite set A that is not too big." (John von
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f34b6cdfd] feat: add 3-p28-t452 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p28-t458.log (76%)
+ rewrite logs/sim-3-p28-t464.log (75%)
+ create mode 100644 results/rdf-3-p28-t452.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a7431ee91..f34b6cdfd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
