@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "And You Will Know That My Name is the Lord When I Lay My Vengeance Upon Thee." (Pulp Fiction)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e5558367b] feat: add 3-p30-t200 radial distribution function and updates to logs
+ 8 files changed, 2349 insertions(+), 267 deletions(-)
+ rewrite logs/rdf-3-p30-t206.log (70%)
+ rewrite logs/rdf-3-p30-t212.log (78%)
+ rewrite logs/sim-3-p30-t218.log (75%)
+ create mode 100644 results/rdf-3-p30-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5622e6d95..e5558367b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
