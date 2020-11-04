@@ -119,3 +119,10 @@ GROMACS reminds you: "Go back to the rock from under which you came" (Fiona Appl
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2c322f4df] feat: add 3-p25-t632 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p25-t638.log (77%)
+ create mode 100644 results/rdf-3-p25-t632.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d6597a5f4..2c322f4df  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
