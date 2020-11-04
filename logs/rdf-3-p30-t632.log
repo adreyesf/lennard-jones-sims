@@ -119,3 +119,10 @@ GROMACS reminds you: "And You Will Know That My Name is the Lord When I Lay My V
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0852ed153] feat: add 3-p30-t632 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 117 deletions(-)
+ rewrite logs/rdf-3-p30-t638.log (71%)
+ create mode 100644 results/rdf-3-p30-t632.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3e672f12f..0852ed153  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
