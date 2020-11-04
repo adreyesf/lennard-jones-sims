@@ -120,3 +120,10 @@ GROMACS reminds you: "Since the mathematicians have invaded the theory of relati
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c336903fb] feat: add 3-p28-t614 radial distribution function and updates to logs
+ 5 files changed, 2177 insertions(+), 108 deletions(-)
+ rewrite logs/rdf-3-p28-t620.log (70%)
+ create mode 100644 results/rdf-3-p28-t614.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   768f39fb4..c336903fb  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
