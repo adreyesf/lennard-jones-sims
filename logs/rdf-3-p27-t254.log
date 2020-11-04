@@ -119,3 +119,10 @@ GROMACS reminds you: "Have a Nice Day" (R. McDonald)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c0f6cf00c] feat: add 3-p27-t254 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p27-t260.log (71%)
+ create mode 100644 results/rdf-3-p27-t254.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   825c7cc56..c0f6cf00c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
