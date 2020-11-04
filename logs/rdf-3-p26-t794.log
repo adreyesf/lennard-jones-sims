@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Why is it that programmers always confuse Halloween with Christmas? Because 31 OCT = 25 DEC." (Anonymous)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 b9b4bad54] feat: add 3-p26-t794 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 265 deletions(-)
+ rewrite logs/rdf-3-p26-t794.log (70%)
+ rewrite logs/rdf-3-p26-t800.log (78%)
+ rewrite logs/sim-3-p27-t200.log (75%)
+ create mode 100644 results/rdf-3-p26-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   355fa1fb6..b9b4bad54  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
