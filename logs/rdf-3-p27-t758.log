@@ -121,3 +121,11 @@ GROMACS reminds you: "If you want to save your child from polio, you can pray or
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ed99441fe] feat: add 3-p27-t758 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p27-t764.log (71%)
+ rewrite logs/sim-3-p27-t770.log (75%)
+ create mode 100644 results/rdf-3-p27-t758.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7ccd2d068..ed99441fe  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
