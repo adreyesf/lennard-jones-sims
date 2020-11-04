@@ -119,3 +119,10 @@ GROMACS reminds you: "If a rat is a good model for your emotional life, you're i
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1ec6794ef] feat: add 3-p28-t356 radial distribution function and updates to logs
+ 6 files changed, 2217 insertions(+), 153 deletions(-)
+ rewrite logs/rdf-3-p28-t362.log (77%)
+ create mode 100644 results/rdf-3-p28-t356.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4ef08c9f4..1ec6794ef  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
