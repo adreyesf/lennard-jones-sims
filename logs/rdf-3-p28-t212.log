@@ -119,3 +119,11 @@ GROMACS reminds you: "UNIX is basically a simple operating system. It just takes
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e2cfacd79] feat: add 3-p28-t212 radial distribution function and updates to logs
+ 6 files changed, 2168 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p28-t218.log (70%)
+ rewrite logs/sim-3-p28-t224.log (75%)
+ create mode 100644 results/rdf-3-p28-t212.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   78d744f30..e2cfacd79  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
