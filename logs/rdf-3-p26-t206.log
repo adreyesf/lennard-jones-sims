@@ -121,3 +121,10 @@ GROMACS reminds you: "C++ is tricky. You can do everything. You can even make ev
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bcd0ab0d0] feat: add 3-p26-t206 radial distribution function and updates to logs
+ 7 files changed, 2192 insertions(+), 117 deletions(-)
+ rewrite logs/rdf-3-p26-t218.log (71%)
+ create mode 100644 results/rdf-3-p26-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c2de6f1ec..bcd0ab0d0  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
