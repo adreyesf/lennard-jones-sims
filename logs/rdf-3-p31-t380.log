@@ -119,3 +119,10 @@ GROMACS reminds you: "O My God, They Killed Kenny !" (South Park)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7cd9a5aa5] feat: add 3-p31-t380 radial distribution function and updates to logs
+ 6 files changed, 2217 insertions(+), 154 deletions(-)
+ rewrite logs/rdf-3-p31-t386.log (77%)
+ create mode 100644 results/rdf-3-p31-t380.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b31e5440b..7cd9a5aa5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
