@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Put Me Inside SSC, Let's Test Superstring Theory, Oh Yoi Yoi Accelerate the Protons" (Gogol Bordello)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 878487abc] feat: add 3-p29-t770 radial distribution function and updates to logs
+ 5 files changed, 2186 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p29-t776.log (70%)
+ create mode 100644 results/rdf-3-p29-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   36ee8a1ea..878487abc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
