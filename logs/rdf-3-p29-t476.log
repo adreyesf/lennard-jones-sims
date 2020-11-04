@@ -119,3 +119,11 @@ GROMACS reminds you: "Science, for me, gives a partial explanation for life. In 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7ae36d2ff] feat: add 3-p29-t476 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p29-t482.log (70%)
+ rewrite logs/sim-3-p29-t488.log (75%)
+ create mode 100644 results/rdf-3-p29-t476.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8b161894c..7ae36d2ff  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
