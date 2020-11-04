@@ -119,3 +119,10 @@ GROMACS reminds you: "There's no way you can rely on an experiment" (Gerrit Groe
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8f3bb340a] feat: add 3-p26-t446 radial distribution function and updates to logs
+ 6 files changed, 2180 insertions(+), 122 deletions(-)
+ rewrite logs/rdf-3-p26-t452.log (72%)
+ create mode 100644 results/rdf-3-p26-t446.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   146127faa..8f3bb340a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
