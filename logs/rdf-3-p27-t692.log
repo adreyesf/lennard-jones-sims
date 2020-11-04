@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "In the End Science Comes Down to Praying" (P. v.d. Berg)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 415d56ea7] feat: add 3-p27-t692 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 250 deletions(-)
+ rewrite logs/rdf-3-p27-t692.log (76%)
+ rewrite logs/rdf-3-p27-t698.log (71%)
+ rewrite logs/sim-3-p27-t704.log (75%)
+ create mode 100644 results/rdf-3-p27-t692.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   41772de79..415d56ea7  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
