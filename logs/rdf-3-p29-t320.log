@@ -119,3 +119,10 @@ GROMACS reminds you: "The Stingrays Must Be Fat This Year" (Red Hot Chili Pepper
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1568a55db] feat: add 3-p29-t320 radial distribution function and updates to logs
+ 6 files changed, 2196 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p29-t326.log (78%)
+ create mode 100644 results/rdf-3-p29-t320.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6ebbea6e6..1568a55db  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
