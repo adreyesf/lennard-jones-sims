@@ -122,3 +122,11 @@ GROMACS reminds you: "I had trouble with physics in college. When I signed up I 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e78315f41] feat: add 3-p27-t674 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 135 deletions(-)
+ rewrite logs/rdf-3-p27-t680.log (75%)
+ rewrite logs/sim-3-p27-t686.log (75%)
+ create mode 100644 results/rdf-3-p27-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   812203578..e78315f41  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
