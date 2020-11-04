@@ -122,3 +122,9 @@ GROMACS reminds you: "Between equal rights, force decides." (Karl Marx)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5e8dfbdea] feat: add 3-p30-t212 radial distribution function and updates to logs
+ 5 files changed, 2072 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p30-t212.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   983c6713f..5e8dfbdea  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
