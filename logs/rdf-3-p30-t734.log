@@ -120,3 +120,9 @@ GROMACS reminds you: "I do not believe continuum electrostatics" (Arieh Warshel,
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 b9dfe9f9e] feat: add 3-p30-t734 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p30-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e7d99b956..b9dfe9f9e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
