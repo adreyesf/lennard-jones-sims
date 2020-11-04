@@ -119,3 +119,10 @@ GROMACS reminds you: "I don't want to achieve immortality through my work... I w
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e2420e8de] feat: add 3-p28-t710 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p28-t716.log (70%)
+ create mode 100644 results/rdf-3-p28-t710.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4e272636b..e2420e8de  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
