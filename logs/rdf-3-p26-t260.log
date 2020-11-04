@@ -119,3 +119,10 @@ GROMACS reminds you: "California, R.I.P." (Red Hot Chili Peppars)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e1123e0ec] feat: add 3-p26-t260 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 110 deletions(-)
+ rewrite logs/rdf-3-p26-t266.log (70%)
+ create mode 100644 results/rdf-3-p26-t260.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   60b129653..e1123e0ec  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
