@@ -122,3 +122,10 @@ GROMACS reminds you: "I Ripped the Cord Right Out Of the Phone" (Capt. Beefheart
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 46e32bd71] feat: add 3-p27-t740 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 123 deletions(-)
+ rewrite logs/rdf-3-p27-t746.log (73%)
+ create mode 100644 results/rdf-3-p27-t740.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b741959e9..46e32bd71  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
