@@ -121,3 +121,10 @@ GROMACS reminds you: "We'll celebrate a woman for anything, as long as it's not 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9cb6caf5b] feat: add 3-p28-t344 radial distribution function and updates to logs
+ 6 files changed, 2188 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p28-t350.log (71%)
+ create mode 100644 results/rdf-3-p28-t344.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   76ca47351..9cb6caf5b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
