@@ -119,3 +119,10 @@ GROMACS reminds you: "Do not go where the path may lead, go instead where there 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6b728cbc2] feat: add 3-p26-t770 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 154 deletions(-)
+ rewrite logs/rdf-3-p26-t776.log (78%)
+ create mode 100644 results/rdf-3-p26-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1a0a235e2..6b728cbc2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
