@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "If you have any trouble sounding condescending, find a UNIX user to show you how it's done." (Scott Adams, Dibert Cartoonist)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a34b13fcc] feat: add 3-p29-t698 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 265 deletions(-)
+ rewrite logs/rdf-3-p29-t698.log (78%)
+ rewrite logs/rdf-3-p29-t704.log (70%)
+ rewrite logs/sim-3-p29-t710.log (75%)
+ create mode 100644 results/rdf-3-p29-t698.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   708358180..a34b13fcc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
