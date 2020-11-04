@@ -1,20 +1,23 @@
 Generating index groups
-                 :-) GROMACS - gmx make_ndx, VERSION 5.1.5 (-:
+                     :-) GROMACS - gmx make_ndx, 2020.3 (-:
 
                             GROMACS is written by:
-     Emile Apol      Rossen Apostolov  Herman J.C. Berendsen    Par Bjelkmar   
- Aldert van Buuren   Rudi van Drunen     Anton Feenstra   Sebastian Fritsch 
-  Gerrit Groenhof   Christoph Junghans   Anca Hamuraru    Vincent Hindriksen
- Dimitrios Karkoulis    Peter Kasson        Jiri Kraus      Carsten Kutzner  
-    Per Larsson      Justin A. Lemkul   Magnus Lundborg   Pieter Meulenhoff 
-   Erik Marklund      Teemu Murtola       Szilard Pall       Sander Pronk   
-   Roland Schulz     Alexey Shvetsov     Michael Shirts     Alfons Sijbers  
-   Peter Tieleman    Teemu Virolainen  Christian Wennberg    Maarten Wolf   
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf      Artem Zhmurov   
                            and the project leaders:
         Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
 
 Copyright (c) 1991-2000, University of Groningen, The Netherlands.
-Copyright (c) 2001-2015, The GROMACS development team at
+Copyright (c) 2001-2019, The GROMACS development team at
 Uppsala University, Stockholm University and
 the Royal Institute of Technology, Sweden.
 check out http://www.gromacs.org for more information.
@@ -24,43 +27,72 @@ under the terms of the GNU Lesser General Public License
 as published by the Free Software Foundation; either version 2.1
 of the License, or (at your option) any later version.
 
-GROMACS:      gmx make_ndx, VERSION 5.1.5
-Executable:   /usr/local/gromacs5-1-5/bin/gmx
-Data prefix:  /usr/local/gromacs5-1-5
+GROMACS:      gmx make_ndx, version 2020.3
+Executable:   /opt/gromacs/gromacs-2020.3-GPU/bin/gmx
+Data prefix:  /opt/gromacs/gromacs-2020.3-GPU
+Working dir:  /home/adreyesf/lennard-jones-sims/3-kr
 Command line:
   gmx make_ndx -f OUT/p28-t362/3-md.tpr -o indexrdf.ndx
 
 
--------------------------------------------------------
-Program:     gmx make_ndx, VERSION 5.1.5
-Source file: src/gromacs/commandline/cmdlineparser.cpp (line 234)
-Function:    void gmx::CommandLineParser::parse(int*, char**)
+Reading structure file
+Reading file OUT/p28-t362/3-md.tpr, VERSION 2020.3 (single precision)
+Reading file OUT/p28-t362/3-md.tpr, VERSION 2020.3 (single precision)
 
-Error in user input:
-Invalid command-line options
-  In command-line option -f
-    File 'OUT/p28-t362/3-md.tpr' does not exist or is not accessible.
+GROMACS reminds you: "Keep Your Shoes and Socks On, People" (F. Zappa)
 
-For more information and tips for troubleshooting, please check the GROMACS
-website at http://www.gromacs.org/Documentation/Errors
--------------------------------------------------------
+Going to read 0 old index file(s)
+Analysing residue names:
+There are:  4000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+
+  0 System              :  4000 atoms
+  1 Other               :  4000 atoms
+  2 KR                  :  4000 atoms
+
+ nr : group      '!': not  'name' nr name   'splitch' nr    Enter: list groups
+ 'a': atom       '&': and  'del' nr         'splitres' nr   'l': list residues
+ 't': atom type  '|': or   'keep' nr        'splitat' nr    'h': help
+ 'r': residue              'res' nr         'chain' char
+ "name": group             'case': case sensitive           'q': save and quit
+ 'ri': residue index
+
+> 
+Removed group 0 'System'
+Removed group 1 'Other'
+
+> 
+
+  0 KR                  :  4000 atoms
+
+ nr : group      '!': not  'name' nr name   'splitch' nr    Enter: list groups
+ 'a': atom       '&': and  'del' nr         'splitres' nr   'l': list residues
+ 't': atom type  '|': or   'keep' nr        'splitat' nr    'h': help
+ 'r': residue              'res' nr         'chain' char
+ "name": group             'case': case sensitive           'q': save and quit
+ 'ri': residue index
+
+> 
 calculating radial distribution function
-                    :-) GROMACS - gmx rdf, VERSION 5.1.5 (-:
+                       :-) GROMACS - gmx rdf, 2020.3 (-:
 
                             GROMACS is written by:
-     Emile Apol      Rossen Apostolov  Herman J.C. Berendsen    Par Bjelkmar   
- Aldert van Buuren   Rudi van Drunen     Anton Feenstra   Sebastian Fritsch 
-  Gerrit Groenhof   Christoph Junghans   Anca Hamuraru    Vincent Hindriksen
- Dimitrios Karkoulis    Peter Kasson        Jiri Kraus      Carsten Kutzner  
-    Per Larsson      Justin A. Lemkul   Magnus Lundborg   Pieter Meulenhoff 
-   Erik Marklund      Teemu Murtola       Szilard Pall       Sander Pronk   
-   Roland Schulz     Alexey Shvetsov     Michael Shirts     Alfons Sijbers  
-   Peter Tieleman    Teemu Virolainen  Christian Wennberg    Maarten Wolf   
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf      Artem Zhmurov   
                            and the project leaders:
         Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
 
 Copyright (c) 1991-2000, University of Groningen, The Netherlands.
-Copyright (c) 2001-2015, The GROMACS development team at
+Copyright (c) 2001-2019, The GROMACS development team at
 Uppsala University, Stockholm University and
 the Royal Institute of Technology, Sweden.
 check out http://www.gromacs.org for more information.
@@ -70,82 +102,14 @@ under the terms of the GNU Lesser General Public License
 as published by the Free Software Foundation; either version 2.1
 of the License, or (at your option) any later version.
 
-GROMACS:      gmx rdf, VERSION 5.1.5
-Executable:   /usr/local/gromacs5-1-5/bin/gmx
-Data prefix:  /usr/local/gromacs5-1-5
+GROMACS:      gmx rdf, version 2020.3
+Executable:   /opt/gromacs/gromacs-2020.3-GPU/bin/gmx
+Data prefix:  /opt/gromacs/gromacs-2020.3-GPU
+Working dir:  /home/adreyesf/lennard-jones-sims/3-kr
 Command line:
   gmx rdf -f OUT/p28-t362/3-md.trr -s OUT/p28-t362/3-md.tpr -n indexrdf.ndx -bin 0.001 -rmax 2.0 -o ../results/rdf-3-p28-t362.xvg
 
-
--------------------------------------------------------
-Program:     gmx rdf, VERSION 5.1.5
-Source file: src/gromacs/commandline/cmdlineparser.cpp (line 234)
-Function:    void gmx::CommandLineParser::parse(int*, char**)
-
-Error in user input:
-Invalid command-line options
-  In command-line option -f
-    File 'OUT/p28-t362/3-md.trr' does not exist or is not accessible.
-  In command-line option -s
-    File 'OUT/p28-t362/3-md.tpr' does not exist or is not accessible.
-  In command-line option -n
-    File 'indexrdf.ndx' does not exist or is not accessible.
-
-For more information and tips for troubleshooting, please check the GROMACS
-website at http://www.gromacs.org/Documentation/Errors
--------------------------------------------------------
-rm: cannot remove 'indexrdf.ndx': No such file or directory
-rm: cannot remove '*.ndx*': No such file or directory
-fatal: Unable to create '/home/test/lennard-jones-sims/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-fatal: Unable to create '/home/test/lennard-jones-sims/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-fatal: Unable to create '/home/test/lennard-jones-sims/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-fatal: Unable to create '/home/test/lennard-jones-sims/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-fatal: Unable to create '/home/test/lennard-jones-sims/.git/index.lock': File exists.
-
-Another git process seems to be running in this repository, e.g.
-an editor opened by 'git commit'. Please make sure all processes
-are terminated then try again. If it still fails, a git process
-may have crashed in this repository earlier:
-remove the file manually to continue.
-On branch dev
-Changes not staged for commit:
-	modified:   MDP/0_md.mdp
-	modified:   MDP/0_npt.mdp
-	modified:   MDP/0_nvt.mdp
-	modified:   mdout.mdp
-	modified:   ../logs/sim-3-p28-t362.log
-
-Untracked files:
-	../2-ar/input
-	input
-	../input
-	../logs/rdf-3-p28-t362.log
-	../logs/sim-3-p28-t368.log
-	../results/rdf-3-p1-t326.xvg
-
-no changes added to commit
-fatal: unable to access 'https://github.com/socd06/lennard-jones-sims.git/': Failed to connect to github.com port 443: Connection timed out
+Reading file OUT/p28-t362/3-md.tpr, VERSION 2020.3 (single precision)
+Reading file OUT/p28-t362/3-md.tpr, VERSION 2020.3 (single precision)
+trr version: GMX_trn_file (single precision)
+Reading frame       0 time    0.000   Reading frame       1 time    2.000   Reading frame       2 time    4.000   Reading frame       3 time    6.000   Reading frame       4 time    8.000   Reading frame       5 time   10.000   Reading frame       6 time   12.000   Reading frame       7 time   14.000   Reading frame       8 time   16.000   Reading frame       9 time   18.000   Reading frame      10 time   20.000   Reading frame      11 time   22.000   Reading frame      12 time   24.000   Reading frame      13 time   26.000   Reading frame      14 time   28.000   Reading frame      15 time   30.000   Reading frame      16 time   32.000   Reading frame      17 time   34.000   Reading frame      18 time   36.000   Reading frame      19 time   38.000   Reading frame      20 time   40.000   Reading frame      30 time   60.000   Reading frame      40 time   80.000   Reading frame      50 time  100.000   Reading frame      60 time  120.000   Reading frame      70 time  140.000   Reading frame      80 time  160.000   Reading frame      90 time  180.000   Reading frame     100 time  200.000   Reading frame     110 time  220.000   Reading frame     120 time  240.000   Reading frame     130 time  260.000   Reading frame     140 time  280.000   Reading frame     150 time  300.000   Reading frame     160 time  320.000   Reading frame     170 time  340.000   Reading frame     180 time  360.000   Reading frame     190 time  380.000   Reading frame     200 time  400.000   Reading frame     300 time  600.000   Reading frame     400 time  800.000   Reading frame     500 time 1000.000   
