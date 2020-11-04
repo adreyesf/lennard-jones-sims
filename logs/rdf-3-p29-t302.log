@@ -119,3 +119,10 @@ GROMACS reminds you: "Don't Eat That Yellow Snow" (F. Zappa)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 74a5cc98c] feat: add 3-p29-t302 radial distribution function and updates to logs
+ 6 files changed, 2216 insertions(+), 143 deletions(-)
+ rewrite logs/rdf-3-p29-t308.log (75%)
+ create mode 100644 results/rdf-3-p29-t302.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a0fa18e95..74a5cc98c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
