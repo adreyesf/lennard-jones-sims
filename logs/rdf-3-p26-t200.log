@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The public have an insatiable curiosity to know everything, except what is worth knowing." (Oscar Wilde)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c2de6f1ec] feat: add 3-p26-t200 radial distribution function and updates to logs
+ 8 files changed, 2352 insertions(+), 261 deletions(-)
+ rewrite logs/rdf-3-p26-t206.log (70%)
+ rewrite logs/rdf-3-p26-t212.log (77%)
+ rewrite logs/sim-3-p26-t218.log (75%)
+ create mode 100644 results/rdf-3-p26-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   cfae1c564..c2de6f1ec  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
