@@ -121,3 +121,11 @@ GROMACS reminds you: "I had trouble with physics in college. When I signed up I 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a11ee68b5] feat: add 3-p29-t620 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p29-t626.log (77%)
+ rewrite logs/sim-3-p29-t632.log (75%)
+ create mode 100644 results/rdf-3-p29-t620.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c86bbdeb1..a11ee68b5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
