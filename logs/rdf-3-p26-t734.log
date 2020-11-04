@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "If I have not seen as far as others, it is because giants were standing on my shoulders." (Hal Abelson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8df871560] feat: add 3-p26-t734 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p26-t740.log (70%)
+ rewrite logs/sim-3-p26-t746.log (75%)
+ create mode 100644 results/rdf-3-p26-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5cbadac78..8df871560  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
