@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Do the Dog On the Ground" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5429d8f24] feat: add 3-p25-t674 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 236 deletions(-)
+ rewrite logs/rdf-3-p25-t674.log (71%)
+ rewrite logs/rdf-3-p25-t680.log (73%)
+ rewrite logs/sim-3-p25-t686.log (75%)
+ create mode 100644 results/rdf-3-p25-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   62f557449..5429d8f24  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
