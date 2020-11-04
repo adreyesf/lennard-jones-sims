@@ -121,3 +121,11 @@ GROMACS reminds you: "Microsecond Here I Come" (P.J. Van Maaren)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 606fa742e] feat: add 3-p28-t200 radial distribution function and updates to logs
+ 8 files changed, 2333 insertions(+), 266 deletions(-)
+ rewrite logs/rdf-3-p28-t206.log (70%)
+ rewrite logs/rdf-3-p28-t212.log (78%)
+ create mode 100644 results/rdf-3-p28-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   afbcb1216..606fa742e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
