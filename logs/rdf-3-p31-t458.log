@@ -119,3 +119,11 @@ GROMACS reminds you: "Inventions have long since reached their limit, and I see 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f90cdfa2a] feat: add 3-p31-t458 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 156 deletions(-)
+ rewrite logs/rdf-3-p31-t464.log (77%)
+ rewrite logs/sim-3-p31-t470.log (75%)
+ create mode 100644 results/rdf-3-p31-t458.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1319587cf..f90cdfa2a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
