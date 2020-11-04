@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Years of calculations and the stress, My science is waiting, nearly complete" (Midlake)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5effc3a15] feat: add 3-p27-t770 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 247 deletions(-)
+ rewrite logs/rdf-3-p27-t770.log (71%)
+ rewrite logs/rdf-3-p27-t776.log (75%)
+ rewrite logs/sim-3-p27-t782.log (75%)
+ create mode 100644 results/rdf-3-p27-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b013256a6..5effc3a15  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
