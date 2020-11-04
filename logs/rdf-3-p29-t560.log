@@ -119,3 +119,11 @@ GROMACS reminds you: "Computer system analysis is like child-rearing; you can do
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c8ccbce07] feat: add 3-p29-t560 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p29-t566.log (70%)
+ rewrite logs/sim-3-p29-t572.log (75%)
+ create mode 100644 results/rdf-3-p29-t560.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fedb09790..c8ccbce07  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
