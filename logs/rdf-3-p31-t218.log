@@ -122,3 +122,9 @@ GROMACS reminds you: "It Wouldn't Hurt to Wipe Once In a While" (Beavis and Butt
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 71146775c] feat: add 3-p31-t218 radial distribution function and updates to logs
+ 5 files changed, 2041 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p31-t218.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1be40ba71..71146775c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
