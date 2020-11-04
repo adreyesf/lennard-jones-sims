@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "History has expired" (PubMed Central)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 420eec8c5] feat: add 3-p26-t566 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 265 deletions(-)
+ rewrite logs/rdf-3-p26-t566.log (77%)
+ rewrite logs/rdf-3-p26-t572.log (71%)
+ rewrite logs/sim-3-p26-t578.log (75%)
+ create mode 100644 results/rdf-3-p26-t566.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2f532b837..420eec8c5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
