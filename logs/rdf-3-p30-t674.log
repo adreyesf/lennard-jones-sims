@@ -121,3 +121,10 @@ GROMACS reminds you: "I hadn't been aware that there were doors closed to me unt
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 07e76aa0d] feat: add 3-p30-t674 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 118 deletions(-)
+ rewrite logs/rdf-3-p30-t680.log (71%)
+ create mode 100644 results/rdf-3-p30-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5e59dac52..07e76aa0d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
