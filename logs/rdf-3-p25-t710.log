@@ -121,3 +121,11 @@ GROMACS reminds you: "Home computers are being called upon to perform many new f
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 85241953a] feat: add 3-p25-t710 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p25-t716.log (77%)
+ rewrite logs/sim-3-p25-t722.log (75%)
+ create mode 100644 results/rdf-3-p25-t710.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c336dfbed..85241953a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
