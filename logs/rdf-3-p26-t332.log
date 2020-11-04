@@ -119,3 +119,10 @@ GROMACS reminds you: "I like single-molecule experiments because I hate to simul
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9ceb388cb] feat: add 3-p26-t332 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p26-t338.log (71%)
+ create mode 100644 results/rdf-3-p26-t332.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f379b8bdb..9ceb388cb  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
