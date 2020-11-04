@@ -119,3 +119,11 @@ GROMACS reminds you: "Sir, spare your threats: The bug which you would fright me
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 afb3155e9] feat: add 3-p25-t446 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p25-t452.log (71%)
+ rewrite logs/sim-3-p25-t458.log (75%)
+ create mode 100644 results/rdf-3-p25-t446.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   18b2c540c..afb3155e9  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
