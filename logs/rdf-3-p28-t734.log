@@ -119,3 +119,10 @@ GROMACS reminds you: "Your Bones Got a Little Machine" (Pixies)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7a7eeb63c] feat: add 3-p28-t734 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 136 deletions(-)
+ rewrite logs/rdf-3-p28-t740.log (75%)
+ create mode 100644 results/rdf-3-p28-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   56f94d18b..7a7eeb63c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
