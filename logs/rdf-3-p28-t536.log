@@ -119,3 +119,11 @@ GROMACS reminds you: "Check Your Input" (D. Van Der Spoel)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 2845b2d7c] feat: add 3-p28-t536 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p28-t542.log (70%)
+ rewrite logs/sim-3-p28-t548.log (75%)
+ create mode 100644 results/rdf-3-p28-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   42c36e848..2845b2d7c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
