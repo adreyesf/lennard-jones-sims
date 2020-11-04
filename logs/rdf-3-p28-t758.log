@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "She Needs Cash to Buy Aspirine For Her Pain" (LIVE)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 69731969b] feat: add 3-p28-t758 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 242 deletions(-)
+ rewrite logs/rdf-3-p28-t758.log (74%)
+ rewrite logs/rdf-3-p28-t764.log (72%)
+ rewrite logs/sim-3-p28-t770.log (75%)
+ create mode 100644 results/rdf-3-p28-t758.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f17b4078a..69731969b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
