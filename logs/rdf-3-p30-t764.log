@@ -119,3 +119,10 @@ GROMACS reminds you: "Your daddy ain't your daddy but your daddy don't know" (Da
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7ce47e4fc] feat: add 3-p30-t764 radial distribution function and updates to logs
+ 5 files changed, 2189 insertions(+), 150 deletions(-)
+ rewrite logs/rdf-3-p30-t770.log (77%)
+ create mode 100644 results/rdf-3-p30-t764.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3b7ca8f08..7ce47e4fc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
