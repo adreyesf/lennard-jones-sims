@@ -120,3 +120,9 @@ GROMACS reminds you: "I Don't Want to Calm Down" (Throwing Muses)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8792ab1a7] feat: add 3-p29-t566 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p29-t566.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c8ccbce07..8792ab1a7  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
