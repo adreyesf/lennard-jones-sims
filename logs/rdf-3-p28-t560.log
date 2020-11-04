@@ -119,3 +119,11 @@ GROMACS reminds you: "Load Up Your Rubber Bullets" (10 CC)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e9413682c] feat: add 3-p28-t560 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p28-t566.log (76%)
+ rewrite logs/sim-3-p28-t572.log (75%)
+ create mode 100644 results/rdf-3-p28-t560.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fec63f7a5..e9413682c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
