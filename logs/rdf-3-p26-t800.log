@@ -122,3 +122,9 @@ GROMACS reminds you: "She Says She Can't Go Home Without a Chaperone" (E. Costel
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 597f3d4e5] feat: add 3-p26-t800 radial distribution function and updates to logs
+ 4 files changed, 2072 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p26-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b9b4bad54..597f3d4e5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
