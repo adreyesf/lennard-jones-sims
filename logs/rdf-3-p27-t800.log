@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The best way to obtain plausible negative examples is to run a docking program with a biophysics-based function." (Julie Bernauer)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 afbcb1216] feat: add 3-p27-t800 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 254 deletions(-)
+ rewrite logs/rdf-3-p27-t800.log (71%)
+ rewrite logs/rdf-3-p28-t200.log (77%)
+ rewrite logs/sim-3-p28-t206.log (75%)
+ create mode 100644 results/rdf-3-p27-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   babd6ca73..afbcb1216  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
