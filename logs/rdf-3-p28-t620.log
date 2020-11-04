@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "What They Need's a Damn Good Whacking" (The Beatles)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 50c43cae4] feat: add 3-p28-t620 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p28-t626.log (77%)
+ rewrite logs/sim-3-p28-t632.log (75%)
+ create mode 100644 results/rdf-3-p28-t620.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c336903fb..50c43cae4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
