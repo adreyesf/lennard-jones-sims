@@ -119,3 +119,11 @@ GROMACS reminds you: "This Doesn't Suck, It's a Black Hole !" (K.A. Feenstra)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c720088fd] feat: add 3-p30-t464 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p30-t470.log (70%)
+ rewrite logs/sim-3-p30-t476.log (75%)
+ create mode 100644 results/rdf-3-p30-t464.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   004f36596..c720088fd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
