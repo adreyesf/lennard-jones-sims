@@ -119,3 +119,10 @@ GROMACS reminds you: "No matter how important you are, you are not as important 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 57b612a2e] feat: add 3-p26-t236 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 110 deletions(-)
+ rewrite logs/rdf-3-p26-t242.log (70%)
+ create mode 100644 results/rdf-3-p26-t236.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   faa555e5b..57b612a2e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
