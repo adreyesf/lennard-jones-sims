@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The Microsecond is Within Reach" (P.J. Van Maaren)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f01c66efd] feat: add 3-p27-t200 radial distribution function and updates to logs
+ 9 files changed, 2479 insertions(+), 367 deletions(-)
+ rewrite logs/rdf-3-p27-t200.log (70%)
+ rewrite logs/rdf-3-p27-t206.log (77%)
+ rewrite logs/rdf-3-p27-t212.log (70%)
+ create mode 100644 results/rdf-3-p27-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   597f3d4e5..f01c66efd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
