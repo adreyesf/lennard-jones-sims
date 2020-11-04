@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "My Ass May Be Dumb, But I Ain't No Dumbass." (Jackie Brown)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 84b94b014] feat: add 3-p25-t794 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 233 deletions(-)
+ rewrite logs/rdf-3-p25-t794.log (73%)
+ rewrite logs/rdf-3-p25-t800.log (71%)
+ rewrite logs/sim-3-p26-t200.log (75%)
+ create mode 100644 results/rdf-3-p25-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   359952b1b..84b94b014  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
