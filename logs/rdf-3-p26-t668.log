@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The only greatness for man is immortality." (James Dean)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7cfbbd9d2] feat: add 3-p26-t668 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 242 deletions(-)
+ rewrite logs/rdf-3-p26-t668.log (75%)
+ rewrite logs/rdf-3-p26-t674.log (70%)
+ rewrite logs/sim-3-p26-t680.log (75%)
+ create mode 100644 results/rdf-3-p26-t668.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e26f89a22..7cfbbd9d2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
