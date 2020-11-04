@@ -120,3 +120,9 @@ GROMACS reminds you: "Therefore, things must be learned only to be unlearned aga
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0d4f6f06f] feat: add 3-p29-t782 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p29-t782.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5d3806943..0d4f6f06f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
