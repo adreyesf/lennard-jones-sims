@@ -119,3 +119,11 @@ GROMACS reminds you: "You Don't Wanna Know" (Pulp Fiction)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 50249d112] feat: add 3-p27-t548 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 123 deletions(-)
+ rewrite logs/rdf-3-p27-t554.log (72%)
+ rewrite logs/sim-3-p27-t560.log (75%)
+ create mode 100644 results/rdf-3-p27-t548.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c40e38ca8..50249d112  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
