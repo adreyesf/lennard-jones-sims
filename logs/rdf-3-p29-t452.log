@@ -119,3 +119,11 @@ GROMACS reminds you: "Science Won't Change You" (The Talking Heads)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c515f643e] feat: add 3-p29-t452 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 112 deletions(-)
+ rewrite logs/rdf-3-p29-t458.log (70%)
+ rewrite logs/sim-3-p29-t464.log (75%)
+ create mode 100644 results/rdf-3-p29-t452.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   365790bf2..c515f643e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
