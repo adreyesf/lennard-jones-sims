@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Nothing shocks me. I'm a scientist." (Harrison Ford as Indiana Jones)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 141bf9603] feat: add 3-p25-t770 radial distribution function and updates to logs
+ 8 files changed, 2354 insertions(+), 262 deletions(-)
+ rewrite logs/rdf-3-p25-t770.log (70%)
+ rewrite logs/rdf-3-p25-t776.log (77%)
+ rewrite logs/sim-3-p25-t782.log (75%)
+ create mode 100644 results/rdf-3-p25-t770.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f29c8c0d4..141bf9603  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
