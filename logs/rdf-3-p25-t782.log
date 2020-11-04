@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I'm no model lady. A model's just an imitation of the real thing." (Mae West)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 abbf5dcaf] feat: add 3-p25-t782 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 262 deletions(-)
+ rewrite logs/rdf-3-p25-t782.log (70%)
+ rewrite logs/rdf-3-p25-t788.log (77%)
+ rewrite logs/sim-3-p25-t794.log (75%)
+ create mode 100644 results/rdf-3-p25-t782.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d6f973256..abbf5dcaf  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
