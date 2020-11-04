@@ -120,3 +120,11 @@ GROMACS reminds you: "In a talk you have a choice: You can make one point or no 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ae259cbd3] feat: add 3-p26-t482 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p26-t488.log (70%)
+ rewrite logs/sim-3-p26-t494.log (75%)
+ create mode 100644 results/rdf-3-p26-t482.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e22e0c9ca..ae259cbd3  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
