@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "FORTRAN was the language of choice for the same reason that three-legged races are popular." (Ken Thompson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 99f859a15] feat: add 3-p29-t404 radial distribution function and updates to logs
+ 6 files changed, 2194 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p29-t410.log (71%)
+ create mode 100644 results/rdf-3-p29-t404.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c3babf7c6..99f859a15  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
