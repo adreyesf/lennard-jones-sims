@@ -121,3 +121,10 @@ GROMACS reminds you: "I'm no model lady. A model's just an imitation of the real
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 dfd3ebaf1] feat: add 3-p27-t206 radial distribution function and updates to logs
+ 7 files changed, 2180 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p27-t218.log (78%)
+ create mode 100644 results/rdf-3-p27-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f01c66efd..dfd3ebaf1  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
