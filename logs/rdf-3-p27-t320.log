@@ -119,3 +119,10 @@ GROMACS reminds you: "A C program is like a fast dance on a newly waxed dance fl
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 421cc43cd] feat: add 3-p27-t320 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p27-t326.log (71%)
+ create mode 100644 results/rdf-3-p27-t320.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a3ec55a67..421cc43cd  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
