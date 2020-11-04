@@ -119,3 +119,11 @@ GROMACS reminds you: "BioBeat is Not Available In Regular Shops" (P.J. Meulenhof
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 ee1497cbb] feat: add 3-p26-t548 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 156 deletions(-)
+ rewrite logs/rdf-3-p26-t554.log (77%)
+ rewrite logs/sim-3-p26-t560.log (75%)
+ create mode 100644 results/rdf-3-p26-t548.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   24a26f39e..ee1497cbb  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
