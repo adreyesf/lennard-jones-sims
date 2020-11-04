@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "My Heart is Just a Muscle In a Cavity" (F. Black)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6b2027064] feat: add 3-p29-t650 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p29-t656.log (78%)
+ create mode 100644 results/rdf-3-p29-t650.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   75de8f474..6b2027064  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
