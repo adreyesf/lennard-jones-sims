@@ -119,3 +119,11 @@ GROMACS reminds you: "Between equal rights, force decides." (Karl Marx)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 43ed378b4] feat: add 3-p31-t272 radial distribution function and updates to logs
+ 7 files changed, 2301 insertions(+), 232 deletions(-)
+ rewrite logs/rdf-3-p31-t278.log (71%)
+ rewrite logs/rdf-3-p31-t284.log (73%)
+ create mode 100644 results/rdf-3-p31-t272.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   03f0d51b0..43ed378b4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
