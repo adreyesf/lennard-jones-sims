@@ -119,3 +119,11 @@ GROMACS reminds you: "The best model of a cat is another cat..., specially the s
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 816ed9099] feat: add 3-p26-t518 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p26-t524.log (77%)
+ rewrite logs/sim-3-p26-t530.log (75%)
+ create mode 100644 results/rdf-3-p26-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   887770d81..816ed9099  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
