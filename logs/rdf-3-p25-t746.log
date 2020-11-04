@@ -120,3 +120,10 @@ GROMACS reminds you: "Never, I said never, compare with experiment" (Magnus Berg
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5c144927f] feat: add 3-p25-t746 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p25-t752.log (70%)
+ create mode 100644 results/rdf-3-p25-t746.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   29794816f..5c144927f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
