@@ -122,3 +122,10 @@ GROMACS reminds you: "Wicky-wicky Wa-wild West" (Will Smith)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 8f188dd55] feat: add 3-p30-t572 radial distribution function and updates to logs
+ 5 files changed, 2187 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p30-t578.log (78%)
+ create mode 100644 results/rdf-3-p30-t572.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6a6c46609..8f188dd55  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
