@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "People are DNA's way of making more DNA." (Edward O. Wilson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6a642e00e] feat: add 3-p26-t584 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 261 deletions(-)
+ rewrite logs/rdf-3-p26-t584.log (70%)
+ rewrite logs/rdf-3-p26-t590.log (77%)
+ rewrite logs/sim-3-p26-t596.log (75%)
+ create mode 100644 results/rdf-3-p26-t584.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   349ebe446..6a642e00e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
