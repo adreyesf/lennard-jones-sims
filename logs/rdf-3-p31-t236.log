@@ -121,3 +121,8 @@ GROMACS reminds you: "Fifty years of programming language research, and we end u
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0b2ae2de6] feat: add 3-p31-t236 radial distribution function and updates to logs
+ 9 files changed, 2302 insertions(+), 226 deletions(-)
+ rewrite logs/rdf-3-p31-t242.log (72%)
+ rewrite logs/rdf-3-p31-t248.log (70%)
+ create mode 100644 results/rdf-3-p31-t236.xvg
