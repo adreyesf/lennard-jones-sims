@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Space May Be the Final Frontier, But It's Made in a Hollywood Basement" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 401d9e4ad] feat: add 3-p25-t560 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 244 deletions(-)
+ rewrite logs/rdf-3-p25-t560.log (72%)
+ rewrite logs/rdf-3-p25-t566.log (74%)
+ rewrite logs/sim-3-p25-t572.log (75%)
+ create mode 100644 results/rdf-3-p25-t560.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e493ff371..401d9e4ad  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
