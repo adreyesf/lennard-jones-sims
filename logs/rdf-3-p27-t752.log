@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Dreams seldom materialize on their own." (Dian Fossey)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7ccd2d068] feat: add 3-p27-t752 radial distribution function and updates to logs
+ 6 files changed, 2204 insertions(+), 137 deletions(-)
+ rewrite logs/rdf-3-p27-t758.log (76%)
+ rewrite logs/sim-3-p27-t764.log (75%)
+ create mode 100644 results/rdf-3-p27-t752.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   904d10277..7ccd2d068  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
