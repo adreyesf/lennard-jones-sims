@@ -119,3 +119,10 @@ GROMACS reminds you: "Carbohydrates is all they groove" (Frank Zappa)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e60965739] feat: add 3-p29-t278 radial distribution function and updates to logs
+ 6 files changed, 2177 insertions(+), 111 deletions(-)
+ rewrite logs/rdf-3-p29-t284.log (70%)
+ create mode 100644 results/rdf-3-p29-t278.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   32d565d4f..e60965739  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
