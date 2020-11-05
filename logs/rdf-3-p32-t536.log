@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Teemu [Murtola] keeps beating our code, but that's fine because he's always right." (Berk Hess)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 90f736d8a] feat: add 3-p32-t536 radial distribution function and updates to logs
+ 8 files changed, 2346 insertions(+), 277 deletions(-)
+ rewrite logs/rdf-3-p32-t536.log (76%)
+ rewrite logs/rdf-3-p32-t542.log (75%)
+ rewrite logs/sim-3-p32-t548.log (75%)
+ create mode 100644 results/rdf-3-p32-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a68869e29..90f736d8a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
