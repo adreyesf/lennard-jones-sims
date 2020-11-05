@@ -120,3 +120,9 @@ GROMACS reminds you: "I Smell Smoke From a Gun Named Extinction" (Pixies)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bbcb14e34] feat: add 3-p32-t572 radial distribution function and updates to logs
+ 4 files changed, 2061 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p32-t572.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c6156c1ca..bbcb14e34  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
