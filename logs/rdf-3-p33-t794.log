@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Facts are stubborn things, but statistics are more pliable." (Laurence Peter)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7724c1f4e] feat: add 3-p33-t794 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 253 deletions(-)
+ rewrite logs/rdf-3-p33-t794.log (77%)
+ rewrite logs/rdf-3-p33-t800.log (70%)
+ rewrite logs/sim-3-p34-t200.log (75%)
+ create mode 100644 results/rdf-3-p33-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6e9df1e0e..7724c1f4e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
