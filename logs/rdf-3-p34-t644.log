@@ -119,3 +119,10 @@ GROMACS reminds you: "Aber wenn der Quarterback kommt, um dir die Brille abzuneh
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 343d5a3dc] feat: add 3-p34-t644 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p34-t650.log (78%)
+ create mode 100644 results/rdf-3-p34-t644.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   11ba7f899..343d5a3dc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
