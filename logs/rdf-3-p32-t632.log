@@ -119,3 +119,10 @@ GROMACS reminds you: "For those who want some proof that physicists are human, t
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f99e4280f] feat: add 3-p32-t632 radial distribution function and updates to logs
+ 5 files changed, 2184 insertions(+), 142 deletions(-)
+ rewrite logs/rdf-3-p32-t632.log (77%)
+ create mode 100644 results/rdf-3-p32-t632.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fea023a64..f99e4280f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
