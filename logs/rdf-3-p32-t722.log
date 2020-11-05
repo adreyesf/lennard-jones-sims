@@ -119,3 +119,11 @@ GROMACS reminds you: "Academia is kind of like applied Marxism. The workers real
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e125a124c] feat: add 3-p32-t722 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 125 deletions(-)
+ rewrite logs/rdf-3-p32-t728.log (73%)
+ rewrite logs/sim-3-p32-t734.log (75%)
+ create mode 100644 results/rdf-3-p32-t722.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   8cb6bdf3c..e125a124c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
