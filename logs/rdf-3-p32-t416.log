@@ -119,3 +119,11 @@ GROMACS reminds you: "Ich Bin Ein Berliner" (J.F. Kennedy)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6ddd871da] feat: add 3-p32-t416 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p32-t422.log (78%)
+ rewrite logs/sim-3-p32-t428.log (75%)
+ create mode 100644 results/rdf-3-p32-t416.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   71ad79a69..6ddd871da  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
