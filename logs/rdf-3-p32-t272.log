@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "We All Get the Flu, We All Get Aids" (LIVE)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c627252e5] feat: add 3-p32-t272 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p32-t278.log (71%)
+ rewrite logs/sim-3-p32-t284.log (75%)
+ create mode 100644 results/rdf-3-p32-t272.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   84742e643..c627252e5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
