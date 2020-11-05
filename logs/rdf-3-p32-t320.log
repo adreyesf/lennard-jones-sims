@@ -119,3 +119,10 @@ GROMACS reminds you: "Our two greatest problems are gravity and paper work. We c
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bb3629ec4] feat: add 3-p32-t320 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 140 deletions(-)
+ rewrite logs/rdf-3-p32-t326.log (76%)
+ create mode 100644 results/rdf-3-p32-t320.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   4f92090a0..bb3629ec4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
