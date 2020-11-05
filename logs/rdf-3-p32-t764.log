@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "You Will Be Surprised At What Resides In Your Inside" (Arrested Development)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e3d0fc382] feat: add 3-p32-t764 radial distribution function and updates to logs
+ 6 files changed, 2204 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p32-t770.log (70%)
+ rewrite logs/sim-3-p32-t776.log (75%)
+ create mode 100644 results/rdf-3-p32-t764.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9fddd26a1..e3d0fc382  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
