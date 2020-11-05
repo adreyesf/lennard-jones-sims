@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "All approaches at a higher level are suspect until confirmed at the molecular level." (Francis Crick)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c77200d9f] feat: add 3-p32-t494 radial distribution function and updates to logs
+ 8 files changed, 2348 insertions(+), 265 deletions(-)
+ rewrite logs/rdf-3-p32-t494.log (77%)
+ rewrite logs/rdf-3-p32-t500.log (71%)
+ rewrite logs/sim-3-p32-t506.log (75%)
+ create mode 100644 results/rdf-3-p32-t494.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d3bfed06e..c77200d9f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
