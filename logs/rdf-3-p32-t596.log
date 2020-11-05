@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "There are only two hard things in computer science - cache invalidation, naming things and off-by-one errors." (Anonymous)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 91fe808af] feat: add 3-p32-t596 radial distribution function and updates to logs
+ 7 files changed, 2314 insertions(+), 259 deletions(-)
+ rewrite logs/rdf-3-p32-t596.log (74%)
+ rewrite logs/rdf-3-p32-t602.log (75%)
+ rewrite logs/sim-3-p32-t608.log (75%)
+ create mode 100644 results/rdf-3-p32-t596.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   dabec20ed..91fe808af  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
