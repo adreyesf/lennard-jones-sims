@@ -120,3 +120,9 @@ GROMACS reminds you: "My greatest contribution to the field of science is that I
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a4be504a6] feat: add 3-p32-t242 radial distribution function and updates to logs
+ 5 files changed, 2104 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p32-t242.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fef151176..a4be504a6  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
