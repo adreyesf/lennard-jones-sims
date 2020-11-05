@@ -119,3 +119,11 @@ GROMACS reminds you: "Beat On the Brat With a Baseball Bat" (The Ramones)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f3793bbde] feat: add 3-p32-t674 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p32-t680.log (77%)
+ rewrite logs/sim-3-p32-t686.log (75%)
+ create mode 100644 results/rdf-3-p32-t674.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a8de91a4d..f3793bbde  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
