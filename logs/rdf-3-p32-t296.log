@@ -119,3 +119,10 @@ GROMACS reminds you: "If You Don't Like Cool Quotes Check Your GMXRC File" (Your
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 4785be789] feat: add 3-p32-t296 radial distribution function and updates to logs
+ 6 files changed, 2207 insertions(+), 156 deletions(-)
+ rewrite logs/rdf-3-p32-t302.log (78%)
+ create mode 100644 results/rdf-3-p32-t296.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f6ab1cc90..4785be789  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
