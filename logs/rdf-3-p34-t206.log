@@ -118,3 +118,13 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I'm Only Faking When I Get It Right" (Soundgarden)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5aaa6475d] feat: add 3-p34-t206 radial distribution function and updates to logs
+ 12 files changed, 2633 insertions(+), 506 deletions(-)
+ rewrite logs/rdf-3-p34-t206.log (70%)
+ rewrite logs/rdf-3-p34-t212.log (76%)
+ rewrite logs/rdf-3-p34-t218.log (70%)
+ rewrite logs/rdf-3-p34-t224.log (77%)
+ create mode 100644 results/rdf-3-p34-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   79d04231b..5aaa6475d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
