@@ -119,3 +119,11 @@ GROMACS reminds you: "Wild Pointers Couldn't Drag Me Away" (K.A. Feenstra)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5e7ad6f7d] feat: add 3-p31-t788 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p31-t794.log (71%)
+ rewrite logs/sim-3-p31-t800.log (75%)
+ create mode 100644 results/rdf-3-p31-t788.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9b79a1703..5e7ad6f7d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
