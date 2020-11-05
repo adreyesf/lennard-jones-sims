@@ -119,3 +119,11 @@ GROMACS reminds you: "Dreams seldom materialize on their own." (Dian Fossey)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c6fc98f1e] feat: add 3-p33-t296 radial distribution function and updates to logs
+ 7 files changed, 2224 insertions(+), 273 deletions(-)
+ rewrite logs/rdf-3-p33-t302.log (78%)
+ rewrite logs/rdf-3-p33-t308.log (87%)
+ create mode 100644 results/rdf-3-p33-t296.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   db71ce9b7..c6fc98f1e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
