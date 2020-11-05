@@ -120,3 +120,9 @@ GROMACS reminds you: "Do You Have a Mind of Your Own ?" (Garbage)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 617cb87bc] feat: add 3-p31-t800 radial distribution function and updates to logs
+ 4 files changed, 2075 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p31-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   04add9a8a..617cb87bc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
