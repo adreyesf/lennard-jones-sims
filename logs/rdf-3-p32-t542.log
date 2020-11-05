@@ -122,3 +122,9 @@ GROMACS reminds you: "Chemical gases filling lungs of little ones" (Black Eyed P
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d8e0ee0be] feat: add 3-p32-t542 radial distribution function and updates to logs
+ 4 files changed, 2062 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p32-t542.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   90f736d8a..d8e0ee0be  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
