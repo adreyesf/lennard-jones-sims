@@ -120,3 +120,13 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Religion is a culture of faith; science is a culture of doubt." (Richard Feynman)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1a48bbfad] feat: add 3-p32-t206 radial distribution function and updates to logs
+ 10 files changed, 2617 insertions(+), 547 deletions(-)
+ rewrite logs/rdf-3-p32-t200.log (74%)
+ rewrite logs/rdf-3-p32-t206.log (71%)
+ rewrite logs/rdf-3-p32-t212.log (75%)
+ rewrite logs/rdf-3-p32-t218.log (81%)
+ create mode 100644 results/rdf-3-p32-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   617cb87bc..1a48bbfad  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
