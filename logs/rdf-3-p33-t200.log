@@ -119,3 +119,11 @@ GROMACS reminds you: "He's using code that only you and I know" (Kate Bush)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a516ae32d] feat: add 3-p33-t200 radial distribution function and updates to logs
+ 7 files changed, 2170 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p33-t272.log (70%)
+ rewrite logs/sim-3-p33-t278.log (75%)
+ create mode 100644 results/rdf-3-p33-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a80df4720..a516ae32d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
