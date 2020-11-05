@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "The Stingrays Must Be Fat This Year" (Red Hot Chili Peppers)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e8a032145] feat: add 3-p32-t638 radial distribution function and updates to logs
+ 7 files changed, 2315 insertions(+), 226 deletions(-)
+ rewrite logs/rdf-3-p32-t638.log (71%)
+ rewrite logs/rdf-3-p32-t644.log (71%)
+ rewrite logs/sim-3-p32-t650.log (75%)
+ create mode 100644 results/rdf-3-p32-t638.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f99e4280f..e8a032145  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
