@@ -119,3 +119,11 @@ GROMACS reminds you: "Science is not a boy's game, it's not a girl's game. It's 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3b4da30f4] feat: add 3-p32-t464 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p32-t470.log (77%)
+ rewrite logs/sim-3-p32-t476.log (75%)
+ create mode 100644 results/rdf-3-p32-t464.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   deb4b79d7..3b4da30f4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
