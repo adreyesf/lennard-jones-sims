@@ -119,3 +119,10 @@ GROMACS reminds you: "Confirmed" (Star Trek)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 91542753e] feat: add 3-p34-t404 radial distribution function and updates to logs
+ 6 files changed, 2177 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p34-t410.log (71%)
+ create mode 100644 results/rdf-3-p34-t404.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   bc5645d6c..91542753e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
