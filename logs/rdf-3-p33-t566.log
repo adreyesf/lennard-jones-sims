@@ -119,3 +119,11 @@ GROMACS reminds you: "Schrödinger's backup: The condition of any backup is unkn
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 946b0705a] feat: add 3-p33-t566 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 143 deletions(-)
+ rewrite logs/rdf-3-p33-t572.log (77%)
+ rewrite logs/sim-3-p33-t578.log (75%)
+ create mode 100644 results/rdf-3-p33-t566.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   35d7a3a6a..946b0705a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
