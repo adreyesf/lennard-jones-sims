@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Predictions can be very difficult - especially about the future." (Niels Bohr)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 59cd2020f] feat: add 3-p33-t278 radial distribution function and updates to logs
+ 7 files changed, 2315 insertions(+), 159 deletions(-)
+ rewrite logs/rdf-3-p33-t290.log (78%)
+ rewrite logs/sim-3-p33-t296.log (75%)
+ create mode 100644 results/rdf-3-p33-t278.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6e81815bc..59cd2020f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
