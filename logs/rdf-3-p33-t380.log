@@ -119,3 +119,10 @@ GROMACS reminds you: "PHP is a minor evil perpetrated and created by incompetent
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9964d97fb] feat: add 3-p33-t380 radial distribution function and updates to logs
+ 6 files changed, 2208 insertions(+), 133 deletions(-)
+ rewrite logs/rdf-3-p33-t386.log (73%)
+ create mode 100644 results/rdf-3-p33-t380.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   61091c7b0..9964d97fb  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
