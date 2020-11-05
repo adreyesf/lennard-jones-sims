@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Rub It Right Accross Your Eyes" (F. Zappa)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c8a43e70d] feat: add 3-p32-t248 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 266 deletions(-)
+ rewrite logs/rdf-3-p32-t248.log (78%)
+ rewrite logs/rdf-3-p32-t254.log (70%)
+ rewrite logs/sim-3-p32-t260.log (75%)
+ create mode 100644 results/rdf-3-p32-t248.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a4be504a6..c8a43e70d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
