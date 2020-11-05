@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Whatever Happened to Pong ?" (F. Black)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 39676a4ac] feat: add 3-p34-t524 radial distribution function and updates to logs
+ 7 files changed, 2322 insertions(+), 251 deletions(-)
+ rewrite logs/rdf-3-p34-t524.log (70%)
+ rewrite logs/rdf-3-p34-t530.log (77%)
+ create mode 100644 results/rdf-3-p34-t524.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a0ddb7a51..39676a4ac  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
