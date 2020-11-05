@@ -119,3 +119,10 @@ GROMACS reminds you: "The loveliest theories are being overthrown by these damne
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1ae674471] feat: add 3-p32-t728 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 155 deletions(-)
+ rewrite logs/rdf-3-p32-t734.log (77%)
+ create mode 100644 results/rdf-3-p32-t728.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e125a124c..1ae674471  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
