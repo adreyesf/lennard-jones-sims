@@ -120,3 +120,9 @@ GROMACS reminds you: "set: No match." (tcsh)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9bf7cbeec] feat: add 3-p33-t266 radial distribution function and updates to logs
+ 5 files changed, 2062 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p33-t266.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a516ae32d..9bf7cbeec  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
