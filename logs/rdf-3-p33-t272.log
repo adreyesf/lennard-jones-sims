@@ -119,3 +119,11 @@ GROMACS reminds you: "Would You Like to Be the Monster Tonight ?" (Captain Beefh
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6e81815bc] feat: add 3-p33-t272 radial distribution function and updates to logs
+ 7 files changed, 2196 insertions(+), 244 deletions(-)
+ rewrite logs/rdf-3-p33-t278.log (76%)
+ rewrite logs/rdf-3-p33-t284.log (99%)
+ create mode 100644 results/rdf-3-p33-t272.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   9bf7cbeec..6e81815bc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
