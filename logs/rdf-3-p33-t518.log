@@ -119,3 +119,11 @@ GROMACS reminds you: "I Don't Want to Catch Anybody Not Drinking." (Monty Python
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0b2a1f276] feat: add 3-p33-t518 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p33-t524.log (69%)
+ rewrite logs/sim-3-p33-t530.log (75%)
+ create mode 100644 results/rdf-3-p33-t518.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5da0b8285..0b2a1f276  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
