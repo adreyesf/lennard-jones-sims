@@ -119,3 +119,11 @@ GROMACS reminds you: "You Try to Run the Universe" (Tricky)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f73800b4c] feat: add 3-p32-t794 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p32-t800.log (71%)
+ rewrite logs/sim-3-p33-t200.log (75%)
+ create mode 100644 results/rdf-3-p32-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7ec2a3560..f73800b4c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
