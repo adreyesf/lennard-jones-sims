@@ -121,3 +121,11 @@ GROMACS reminds you: "#define QUESTION ((bb),| !(bb))" (William Shakespeare)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3a7171e47] feat: add 3-p32-t584 radial distribution function and updates to logs
+ 6 files changed, 2201 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p32-t590.log (71%)
+ rewrite logs/sim-3-p32-t596.log (75%)
+ create mode 100644 results/rdf-3-p32-t584.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c03ed8438..3a7171e47  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
