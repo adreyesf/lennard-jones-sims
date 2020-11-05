@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I originally implemented PME to prove that you didn't need it..." (Erik Lindahl)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 498f50249] feat: add 3-p33-t206 radial distribution function and updates to logs
+ 10 files changed, 2512 insertions(+), 386 deletions(-)
+ rewrite logs/rdf-3-p33-t206.log (76%)
+ rewrite logs/rdf-3-p33-t212.log (69%)
+ rewrite logs/rdf-3-p33-t218.log (75%)
+ create mode 100644 results/rdf-3-p33-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   224714d78..498f50249  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
