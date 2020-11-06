@@ -121,3 +121,11 @@ GROMACS reminds you: "Aristotle maintained that women have fewer teeth than men;
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f30576011] feat: add 3-p37-t284 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 123 deletions(-)
+ rewrite logs/rdf-3-p37-t290.log (73%)
+ rewrite logs/sim-3-p37-t296.log (75%)
+ create mode 100644 results/rdf-3-p37-t284.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d69faad8c..f30576011  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
