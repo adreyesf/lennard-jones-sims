@@ -119,3 +119,9 @@ GROMACS reminds you: "I'll Master Your Language, and In the Meantime I'll Create
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 13bf337fe] feat: add 3-p38-t266 radial distribution function and updates to logs
+ 5 files changed, 2155 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p38-t266.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0cb640e17..13bf337fe  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
