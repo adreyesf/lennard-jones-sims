@@ -119,3 +119,10 @@ GROMACS reminds you: "Science, my lad, is made up of mistakes, but they are mist
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 94d641b4d] feat: add 3-p35-t554 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 108 deletions(-)
+ rewrite logs/rdf-3-p35-t554.log (70%)
+ create mode 100644 results/rdf-3-p35-t554.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   78661a6c8..94d641b4d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
