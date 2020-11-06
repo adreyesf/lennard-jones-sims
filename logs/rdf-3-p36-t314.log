@@ -119,3 +119,10 @@ GROMACS reminds you: "Science progresses best when observations force us to alte
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6af33c82b] feat: add 3-p36-t314 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 110 deletions(-)
+ rewrite logs/rdf-3-p36-t314.log (70%)
+ create mode 100644 results/rdf-3-p36-t314.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   84b8cd0c7..6af33c82b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
