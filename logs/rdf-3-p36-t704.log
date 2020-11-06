@@ -119,3 +119,10 @@ GROMACS reminds you: "On the East coast, a purple patch, to show where the jolly
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 aa62a6e6f] feat: add 3-p36-t704 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p36-t704.log (70%)
+ create mode 100644 results/rdf-3-p36-t704.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d0a894cb9..aa62a6e6f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
