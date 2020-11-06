@@ -119,3 +119,9 @@ GROMACS reminds you: "Bad As This Shit Is, This Shit Ain't As Bad As You Think I
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 157b7f05f] feat: add 3-p35-t536 radial distribution function and updates to logs
+ 4 files changed, 2071 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p35-t536.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3c1d0bd53..157b7f05f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
