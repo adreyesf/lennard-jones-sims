@@ -119,3 +119,10 @@ GROMACS reminds you: "Physics is like sex: sure, it may give some practical resu
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bc7ce4b2b] feat: add 3-p35-t452 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 132 deletions(-)
+ rewrite logs/rdf-3-p35-t452.log (73%)
+ create mode 100644 results/rdf-3-p35-t452.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   d37ae972d..bc7ce4b2b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
