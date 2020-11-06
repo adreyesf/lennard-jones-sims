@@ -119,3 +119,7 @@ GROMACS reminds you: "Your assumptions are your windows on the world. Scrub them
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 b9a02be6f] feat: add 3-p40-t230 radial distribution function and updates to logs
+ 8 files changed, 2189 insertions(+), 117 deletions(-)
+ rewrite logs/rdf-3-p40-t242.log (72%)
+ create mode 100644 results/rdf-3-p40-t230.xvg
