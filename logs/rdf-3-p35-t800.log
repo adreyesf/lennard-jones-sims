@@ -119,3 +119,10 @@ GROMACS reminds you: "An expert is a person who has made all the mistakes that c
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 e88120c3b] feat: add 3-p35-t800 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p35-t800.log (70%)
+ create mode 100644 results/rdf-3-p35-t800.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e6fdb7186..e88120c3b  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
