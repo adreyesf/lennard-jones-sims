@@ -119,3 +119,10 @@ GROMACS reminds you: "A programmer's spouse says 'While you're at the grocery st
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c8de18365] feat: add 3-p35-t686 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p35-t686.log (70%)
+ create mode 100644 results/rdf-3-p35-t686.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   904967179..c8de18365  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
