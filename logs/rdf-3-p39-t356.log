@@ -119,3 +119,11 @@ GROMACS reminds you: "Got Coffee, Got Donuts, Got Wasted" (F. Black)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 a9ef9dd8f] feat: add 3-p39-t356 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 120 deletions(-)
+ rewrite logs/rdf-3-p39-t362.log (72%)
+ rewrite logs/sim-3-p39-t368.log (75%)
+ create mode 100644 results/rdf-3-p39-t356.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   448bf8768..a9ef9dd8f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
