@@ -122,3 +122,10 @@ GROMACS reminds you: "Can someone please tell Icarus that he's not the only one 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 221839860] feat: add 3-p35-t572 radial distribution function and updates to logs
+ 6 files changed, 2187 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p35-t578.log (70%)
+ create mode 100644 results/rdf-3-p35-t572.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   6c5118a3e..221839860  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
