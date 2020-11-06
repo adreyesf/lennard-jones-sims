@@ -119,3 +119,10 @@ GROMACS reminds you: "Raw data is like raw sewage, it requires some processing b
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 de78f6bdc] feat: add 3-p39-t764 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 121 deletions(-)
+ rewrite logs/rdf-3-p39-t770.log (73%)
+ create mode 100644 results/rdf-3-p39-t764.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   7811332dc..de78f6bdc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
