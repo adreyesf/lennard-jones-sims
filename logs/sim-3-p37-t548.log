@@ -1,0 +1,35 @@
+Analysing residue names:
+There are:  4000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+This run will generate roughly 1 Mb of data
+saving to OUT/p37-t548/0-em
+turning H bonds into constraints...
+Analysing residue names:
+There are:  4000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 548 K
+Calculated rlist for 1x1 atom pair-list as 1.000 nm, buffer size 0.000 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.000 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+This run will generate roughly 0 Mb of data
+saving to OUT/p37-t548/1-nvt
+turning H bonds into constraints...
+Analysing residue names:
+There are:  4000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 548 K
+Calculated rlist for 1x1 atom pair-list as 1.000 nm, buffer size 0.000 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.000 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+This run will generate roughly 0 Mb of data
+saving to OUT/p37-t548/2-npt
+turning H bonds into constraints...
+Analysing residue names:
+There are:  4000      Other residues
+Analysing residues not classified as Protein/DNA/RNA/Water and splitting into groups...
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 548 K
+Calculated rlist for 1x1 atom pair-list as 1.000 nm, buffer size 0.000 nm
+Set rlist, assuming 4x4 atom pair-list, to 1.000 nm, buffer size 0.000 nm
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+This run will generate roughly 69 Mb of data
+saving to OUT/p37-t548/3-md
