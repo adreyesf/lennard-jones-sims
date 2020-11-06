@@ -121,3 +121,10 @@ GROMACS reminds you: "Count the Bubbles In Your Hair" (The Breeders)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 17c643dcc] feat: add 3-p34-t764 radial distribution function and updates to logs
+ 6 files changed, 2189 insertions(+), 146 deletions(-)
+ rewrite logs/rdf-3-p34-t770.log (77%)
+ create mode 100644 results/rdf-3-p34-t764.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c0f2e27ad..17c643dcc  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
