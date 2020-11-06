@@ -121,3 +121,9 @@ GROMACS reminds you: "Ease Myself Into the Body Bag" (P.J. Harvey)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 26d01434d] feat: add 3-p37-t224 radial distribution function and updates to logs
+ 5 files changed, 2075 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p37-t224.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2b6969731..26d01434d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
