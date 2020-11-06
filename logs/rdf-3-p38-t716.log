@@ -121,3 +121,9 @@ GROMACS reminds you: "Oh, There Goes Gravity" (Eminem)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 89a13e6ad] feat: add 3-p38-t716 radial distribution function and updates to logs
+ 5 files changed, 2158 insertions(+), 53 deletions(-)
+ create mode 100644 results/rdf-3-p38-t716.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   5b2743477..89a13e6ad  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
