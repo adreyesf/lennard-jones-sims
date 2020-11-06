@@ -119,3 +119,11 @@ GROMACS reminds you: "Do You Have a Mind of Your Own ?" (Garbage)
 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 126c44102] feat: add 3-p37-t764 radial distribution function and updates to logs
+ 6 files changed, 2205 insertions(+), 116 deletions(-)
+ rewrite logs/rdf-3-p37-t770.log (71%)
+ rewrite logs/sim-3-p37-t776.log (75%)
+ create mode 100644 results/rdf-3-p37-t764.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   df330e39c..126c44102  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
