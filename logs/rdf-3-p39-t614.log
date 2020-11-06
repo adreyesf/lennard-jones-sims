@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I'm Gonna Get Medieval On Your Ass" (Pulp Fiction)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 45bccf74f] feat: add 3-p39-t614 radial distribution function and updates to logs
+ 6 files changed, 2313 insertions(+), 258 deletions(-)
+ rewrite logs/rdf-3-p39-t614.log (77%)
+ rewrite logs/rdf-3-p39-t620.log (72%)
+ rewrite logs/sim-3-p39-t626.log (75%)
+ create mode 100644 results/rdf-3-p39-t614.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0fd783ed7..45bccf74f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
