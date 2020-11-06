@@ -121,3 +121,11 @@ GROMACS reminds you: "I admired Bohr very much. We had long talks together, long
 
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0a1d00c0d] feat: add 3-p38-t704 radial distribution function and updates to logs
+ 6 files changed, 2202 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p38-t710.log (70%)
+ rewrite logs/sim-3-p38-t716.log (75%)
+ create mode 100644 results/rdf-3-p38-t704.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   0582a3528..0a1d00c0d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
