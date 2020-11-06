@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "A professor is one who talks in someone else's sleep." (W.H. Auden)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1f5873f3e] feat: add 3-p35-t512 radial distribution function and updates to logs
+ 7 files changed, 2304 insertions(+), 275 deletions(-)
+ rewrite logs/rdf-3-p35-t512.log (77%)
+ rewrite logs/rdf-3-p35-t518.log (73%)
+ create mode 100644 results/rdf-3-p35-t512.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   cfaa9921d..1f5873f3e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
