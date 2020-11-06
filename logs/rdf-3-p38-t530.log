@@ -119,3 +119,10 @@ GROMACS reminds you: "It's 2040 now. Our President is a plant." (Ghostbusters 20
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5eef03b70] feat: add 3-p38-t530 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p38-t536.log (70%)
+ create mode 100644 results/rdf-3-p38-t530.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ef709d9c1..5eef03b70  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
