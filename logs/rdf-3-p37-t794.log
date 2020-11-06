@@ -120,3 +120,10 @@ GROMACS reminds you: "Shake Barrels Of Whisky Down My Throat" (Throwing Muses)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 cb9765280] feat: add 3-p37-t794 radial distribution function and updates to logs
+ 6 files changed, 2186 insertions(+), 114 deletions(-)
+ rewrite logs/rdf-3-p37-t800.log (70%)
+ create mode 100644 results/rdf-3-p37-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   cf09dcd52..cb9765280  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
