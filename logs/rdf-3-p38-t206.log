@@ -120,3 +120,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Motherhood Means Mental Freeze" (The Breeders)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 bda266a27] feat: add 3-p38-t206 radial distribution function and updates to logs
+ 10 files changed, 2487 insertions(+), 410 deletions(-)
+ rewrite logs/rdf-3-p38-t206.log (70%)
+ rewrite logs/rdf-3-p38-t212.log (80%)
+ rewrite logs/rdf-3-p38-t218.log (73%)
+ create mode 100644 results/rdf-3-p38-t206.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fbcf64e25..bda266a27  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
