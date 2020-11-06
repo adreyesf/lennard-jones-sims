@@ -123,3 +123,6 @@ rm: cannot remove '*.mdp.*': No such file or directory
  8 files changed, 2189 insertions(+), 117 deletions(-)
  rewrite logs/rdf-3-p40-t242.log (72%)
  create mode 100644 results/rdf-3-p40-t230.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   031e49fb3..b9a02be6f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.

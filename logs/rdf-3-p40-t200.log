@@ -124,3 +124,6 @@ rm: cannot remove '*.mdp.*': No such file or directory
  rewrite logs/sim-3-p40-t248.log (75%)
  create mode 100644 results/rdf-3-p40-t200.xvg
 fatal: unable to get credential storage lock: File exists
+To https://github.com/adreyesf/lennard-jones-sims.git
+ ! [remote rejected]     u1 -> u1 (cannot lock ref 'refs/heads/u1': is at 5292acb4e569cec716963d0b8ce7395d99aa8b08 but expected 031e49fb3340726ff3b38763d437a16128cb203e)
+error: failed to push some refs to 'https://github.com/adreyesf/lennard-jones-sims.git'
