@@ -119,3 +119,11 @@ GROMACS reminds you: "I've basically become a vegetarian since the only meat I'm
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 be18a908c] feat: add 3-p37-t458 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p37-t464.log (70%)
+ rewrite logs/sim-3-p37-t470.log (75%)
+ create mode 100644 results/rdf-3-p37-t458.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a4104d067..be18a908c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
