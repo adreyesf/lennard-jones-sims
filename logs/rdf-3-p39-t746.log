@@ -119,3 +119,9 @@ GROMACS reminds you: "It takes money to make money, they say" (Lou Reed)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 5a2de86d4] feat: add 3-p39-t746 radial distribution function and updates to logs
+ 4 files changed, 2070 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p39-t746.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   93ad197fb..5a2de86d4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
