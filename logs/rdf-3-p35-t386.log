@@ -119,3 +119,11 @@ GROMACS reminds you: "Still I had a lurking question. Would it not be better if 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 27bce211e] feat: add 3-p35-t386 radial distribution function and updates to logs
+ 7 files changed, 2325 insertions(+), 239 deletions(-)
+ rewrite logs/rdf-3-p35-t386.log (73%)
+ rewrite logs/rdf-3-p35-t392.log (72%)
+ create mode 100644 results/rdf-3-p35-t386.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   dc7693e0a..27bce211e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
