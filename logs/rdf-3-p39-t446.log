@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Sort Of" (Urban Dance Squad)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 552f96d62] feat: add 3-p39-t446 radial distribution function and updates to logs
+ 6 files changed, 2194 insertions(+), 143 deletions(-)
+ rewrite logs/rdf-3-p39-t452.log (77%)
+ create mode 100644 results/rdf-3-p39-t446.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   f05e4c962..552f96d62  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
