@@ -120,3 +120,9 @@ GROMACS reminds you: "Christianity may be OK between consenting adults in privat
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 cfaa9921d] feat: add 3-p35-t506 radial distribution function and updates to logs
+ 4 files changed, 2061 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p35-t506.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   325accdfa..cfaa9921d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
