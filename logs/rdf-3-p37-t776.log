@@ -121,3 +121,9 @@ GROMACS reminds you: "Creativity in science, as in art, cannot be organized. It 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0f438d23c] feat: add 3-p37-t776 radial distribution function and updates to logs
+ 6 files changed, 2199 insertions(+), 135 deletions(-)
+ rewrite logs/rdf-3-p37-t782.log (73%)
+ rewrite logs/sim-3-p37-t788.log (75%)
+ create mode 100644 results/rdf-3-p37-t776.xvg
+fatal: unable to access 'https://github.com/adreyesf/lennard-jones-sims.git/': Failed to connect to github.com port 443: Connection timed out
