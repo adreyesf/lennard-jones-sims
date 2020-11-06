@@ -120,3 +120,13 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Every Sperm is Sacred" (Monty Python)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 c5e4abde1] feat: add 3-p40-t212 radial distribution function and updates to logs
+ 10 files changed, 2626 insertions(+), 534 deletions(-)
+ rewrite logs/rdf-3-p40-t200.log (76%)
+ rewrite logs/rdf-3-p40-t206.log (73%)
+ rewrite logs/rdf-3-p40-t212.log (76%)
+ rewrite logs/rdf-3-p40-t218.log (76%)
+ create mode 100644 results/rdf-3-p40-t212.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   b8f1b099b..c5e4abde1  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
