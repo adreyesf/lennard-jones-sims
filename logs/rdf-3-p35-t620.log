@@ -119,3 +119,10 @@ GROMACS reminds you: "Academia is kind of like applied Marxism. The workers real
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 90322dfba] feat: add 3-p35-t620 radial distribution function and updates to logs
+ 5 files changed, 2176 insertions(+), 157 deletions(-)
+ rewrite logs/rdf-3-p35-t620.log (78%)
+ create mode 100644 results/rdf-3-p35-t620.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   e082a5877..90322dfba  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
