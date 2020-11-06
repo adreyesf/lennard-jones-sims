@@ -119,3 +119,11 @@ GROMACS reminds you: "Never mind, death professor, your structure's fine" (TV on
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 cf0f70553] feat: add 3-p35-t644 radial distribution function and updates to logs
+ 5 files changed, 2168 insertions(+), 176 deletions(-)
+ rewrite logs/rdf-3-p35-t644.log (80%)
+ rewrite logs/sim-3-p35-t650.log (75%)
+ create mode 100644 results/rdf-3-p35-t644.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   45f1870bf..cf0f70553  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
