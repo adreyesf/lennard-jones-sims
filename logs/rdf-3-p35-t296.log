@@ -119,3 +119,9 @@ GROMACS reminds you: "I know poetry is not dead, nor genius lost; nor has Mammon
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 1254315f4] feat: add 3-p35-t296 radial distribution function and updates to logs
+ 5 files changed, 2072 insertions(+), 3 deletions(-)
+ create mode 100644 results/rdf-3-p35-t296.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   829c30787..1254315f4  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
