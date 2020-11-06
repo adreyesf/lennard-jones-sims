@@ -119,3 +119,11 @@ GROMACS reminds you: "A computer once beat me at chess, but it was no match for 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 04561052c] feat: add 3-p38-t356 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 140 deletions(-)
+ rewrite logs/rdf-3-p38-t362.log (76%)
+ rewrite logs/sim-3-p38-t368.log (75%)
+ create mode 100644 results/rdf-3-p38-t356.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   c033bc837..04561052c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
