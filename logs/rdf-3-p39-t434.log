@@ -119,3 +119,11 @@ GROMACS reminds you: "Your Country Needs YOU" (U.S. Army)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 3f125b4ae] feat: add 3-p39-t434 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 135 deletions(-)
+ rewrite logs/rdf-3-p39-t440.log (72%)
+ rewrite logs/sim-3-p39-t446.log (75%)
+ create mode 100644 results/rdf-3-p39-t434.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ed1ca1dcd..3f125b4ae  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
