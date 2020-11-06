@@ -119,3 +119,10 @@ GROMACS reminds you: "There was no preconception on what to do" (Daft Punk)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 4c33c1aba] feat: add 3-p35-t728 radial distribution function and updates to logs
+ 5 files changed, 2185 insertions(+), 109 deletions(-)
+ rewrite logs/rdf-3-p35-t728.log (70%)
+ create mode 100644 results/rdf-3-p35-t728.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fcd219575..4c33c1aba  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
