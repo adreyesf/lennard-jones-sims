@@ -118,3 +118,12 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "I Need Love, Not Games" (Iggy Pop & Kate Pierson)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 049c9d62a] feat: add 3-p35-t458 radial distribution function and updates to logs
+ 7 files changed, 2315 insertions(+), 254 deletions(-)
+ rewrite logs/rdf-3-p35-t458.log (76%)
+ rewrite logs/rdf-3-p35-t464.log (70%)
+ rewrite logs/sim-3-p35-t470.log (75%)
+ create mode 100644 results/rdf-3-p35-t458.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   bc7ce4b2b..049c9d62a  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
