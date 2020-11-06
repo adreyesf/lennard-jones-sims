@@ -119,3 +119,11 @@ GROMACS reminds you: "Torture numbers, and they'll confess to anything." (Greg E
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 9d2551015] feat: add 3-p37-t428 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 160 deletions(-)
+ rewrite logs/rdf-3-p37-t434.log (78%)
+ rewrite logs/sim-3-p37-t440.log (75%)
+ create mode 100644 results/rdf-3-p37-t428.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a803e8897..9d2551015  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
