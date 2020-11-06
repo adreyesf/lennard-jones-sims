@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Why is the Earth moving 'round the sun? Floating in the vacuum with no purpose, not a one" (Fleet Foxes)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 04cc3779d] feat: add 3-p39-t626 radial distribution function and updates to logs
+ 6 files changed, 2191 insertions(+), 149 deletions(-)
+ rewrite logs/rdf-3-p39-t632.log (76%)
+ create mode 100644 results/rdf-3-p39-t626.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   22f83ce1c..04cc3779d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
