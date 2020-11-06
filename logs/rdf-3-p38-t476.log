@@ -119,3 +119,11 @@ GROMACS reminds you: "No matter how important you are, you are not as important 
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 701c25c0d] feat: add 3-p38-t476 radial distribution function and updates to logs
+ 6 files changed, 2200 insertions(+), 153 deletions(-)
+ rewrite logs/rdf-3-p38-t482.log (77%)
+ rewrite logs/sim-3-p38-t488.log (75%)
+ create mode 100644 results/rdf-3-p38-t476.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   fb004583a..701c25c0d  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
