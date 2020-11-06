@@ -118,3 +118,10 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Input, output, electricity" (Joni Mitchell)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 0091d16a2] feat: add 3-p39-t794 radial distribution function and updates to logs
+ 6 files changed, 2194 insertions(+), 118 deletions(-)
+ rewrite logs/rdf-3-p39-t800.log (72%)
+ create mode 100644 results/rdf-3-p39-t794.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   ec1d7bb2c..0091d16a2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
