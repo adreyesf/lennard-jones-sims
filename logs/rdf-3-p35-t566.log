@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Everybody is Smashing Things Down" (Offspring)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 6c5118a3e] feat: add 3-p35-t566 radial distribution function and updates to logs
+ 7 files changed, 2305 insertions(+), 258 deletions(-)
+ rewrite logs/rdf-3-p35-t566.log (73%)
+ rewrite logs/rdf-3-p35-t572.log (76%)
+ create mode 100644 results/rdf-3-p35-t566.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   816fc7769..6c5118a3e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
