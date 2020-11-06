@@ -122,3 +122,10 @@ GROMACS reminds you: "They're Red Hot" (Red Hot Chili Peppers)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 24ed5394c] feat: add 3-p38-t746 radial distribution function and updates to logs
+ 6 files changed, 2191 insertions(+), 113 deletions(-)
+ rewrite logs/rdf-3-p38-t752.log (70%)
+ create mode 100644 results/rdf-3-p38-t746.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2d5e3dd57..24ed5394c  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
