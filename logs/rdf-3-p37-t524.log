@@ -119,3 +119,10 @@ GROMACS reminds you: "If 10 years from now, when you are doing something quick a
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 08c8de8d5] feat: add 3-p37-t524 radial distribution function and updates to logs
+ 6 files changed, 2190 insertions(+), 123 deletions(-)
+ rewrite logs/rdf-3-p37-t530.log (73%)
+ create mode 100644 results/rdf-3-p37-t524.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   a873d52d7..08c8de8d5  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
