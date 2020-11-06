@@ -120,3 +120,10 @@ GROMACS reminds you: "Ubiquitin's just a rock" (Berk Hess)
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 913c72e1f] feat: add 3-p39-t686 radial distribution function and updates to logs
+ 5 files changed, 2190 insertions(+), 121 deletions(-)
+ rewrite logs/rdf-3-p39-t692.log (73%)
+ create mode 100644 results/rdf-3-p39-t686.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   3e2a6c670..913c72e1f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
