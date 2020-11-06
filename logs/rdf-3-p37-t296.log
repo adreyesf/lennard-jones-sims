@@ -119,3 +119,9 @@ GROMACS reminds you: "Act like Prometheus would" (Gogol Bordello)
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 7707e0cb2] feat: add 3-p37-t296 radial distribution function and updates to logs
+ 4 files changed, 2074 insertions(+), 1 deletion(-)
+ create mode 100644 results/rdf-3-p37-t296.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   45e34fd57..7707e0cb2  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
