@@ -120,3 +120,9 @@ GROMACS reminds you: "The first 90% of the code accounts for the first 90% of th
 rm: cannot remove 'indexrdf.ndx': No such file or directory
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 f29cba066] feat: add 3-p36-t200 radial distribution function and updates to logs
+ 5 files changed, 2072 insertions(+), 2 deletions(-)
+ create mode 100644 results/rdf-3-p36-t200.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   2e7ffae6f..f29cba066  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
