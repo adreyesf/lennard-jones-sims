@@ -118,3 +118,11 @@ Analyzed 1501 frames, last time 3000.000
 GROMACS reminds you: "Before we work on artificial intelligence why don't we do something about natural stupidity?" (Steve Polyak)
 
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 124f7e52e] feat: add 3-p37-t734 radial distribution function and updates to logs
+ 6 files changed, 2303 insertions(+), 243 deletions(-)
+ rewrite logs/rdf-3-p37-t734.log (75%)
+ rewrite logs/rdf-3-p37-t740.log (70%)
+ create mode 100644 results/rdf-3-p37-t734.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   377dd5723..124f7e52e  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
