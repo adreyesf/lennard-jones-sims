@@ -119,3 +119,12 @@ GROMACS reminds you: "Your Country Raised You, Your Country Fed You, and Just Li
 
 rm: cannot remove '*.ndx.*': No such file or directory
 rm: cannot remove '*.mdp.*': No such file or directory
+[u1 d1b91c64f] feat: add 3-p7-t332 radial distribution function and updates to logs
+ 9 files changed, 4337 insertions(+), 307 deletions(-)
+ rewrite logs/rdf-3-p40-t554.log (70%)
+ rewrite logs/rdf-3-p40-t560.log (77%)
+ create mode 100644 results/rdf-3-p40-t554.xvg
+ create mode 100644 results/rdf-3-p7-t332.xvg
+To https://github.com/adreyesf/lennard-jones-sims.git
+   1acb0f3a0..d1b91c64f  u1 -> u1
+Branch 'u1' set up to track remote branch 'u1' from 'origin'.
